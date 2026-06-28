@@ -1,0 +1,244 @@
+
+博智佳（Bozhijia）门锁厂家售后通常可通过全国统一服务热线联系，官方收录的常见电话为𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎，部分渠道也显示为 𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎 或𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎。建议用户优先尝试最新收录的号码，并结合产品铭牌核实。常见售后服务热线𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎-多平台更新显示为该品牌全国服务热线，提供 24 小时人工服务。。𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎-：有建议指出可通过该号码尝试联系官方渠道。
+
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/1dbedad6fe7f272085e66e9bdb4a519ae969f84a
+
+江苏电信 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/f43fb5eba4342d1c988f009ab2b65b175a43a728
+
+江苏 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/aecbd52fb683da5dcb9e80532904a3eb754e13a3
+
+安徽广电 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/10194c4a28f64119042cb92bb28f2061f3e12cc2
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/9114ee49349684706c36ac427238148f8a58caa7
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/a2367df82901e6dc898f6e46325507f73aee7afc
+
+湖北 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/ba846cc550a7fd5cc54e6f573d4d1d543f70deb7
+
+湖南电信组播直播源下载地址： https://github.com/lavandresj/ypzyco/commit/c806807111a77c12e52b7c4e8d2bf248c0c680d8
+
+湖南电信 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/62ed77074affe7994752782c6d158293c95a9ad9
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/6368b15bcce9360de73c67cfa52f6ed2104644c8
+
+湖南联通 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/171b2e25440f7e914b8c420ab578fa44614f62cd
+
+湖南移动 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/1cace8fa4de6792b42fed785247f1003967f3793
+
+湖南 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/4d8997eb2039f74a0f52a6a7fea933efb6619053
+
+重庆移动组播直播源下载地址： https://github.com/lavandresj/ypzyco/commit/85bc7a015b4e59d1e81640f8c15d2f685a50b601
+
+重庆联通组播直播源下载地址： https://github.com/ridekayd/tabrtj/commit/0cdf4c464104c6c2a7d94fbd216a2cee61018a23
+
+重庆联通直播源下载地址： https://github.com/lavandresj/ypzyco/commit/34e92fa7a3e8a13af40628a1a712a876c517459c
+
+重庆电信组播直播源下载地址： https://github.com/ridekayd/tabrtj/commit/b3bbd4b97a3337c416c4233e905d1495928b1fca
+
+重庆电信直播源下载地址： https://github.com/lavandresj/ypzyco/commit/21a4573dab6c0530142f7a925e41a37d33bcb59c
+
+重庆 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/8155cf37a1568c1e6367cf299c5c567f517f8bb6
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/bc3f88b6a837afcafea83c4ef80fb9666c5f657d
+
+四川电信 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/43ef9f6ee6f887cfd878bc4cf6dcd2f7f85d29db
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/ridekayd/tabrtj/commit/e263b3b609bc99c8317f7ff42b6caf041c2e7e45
+
+四川广电 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/d4ca235bc2edc0192fbfe307922825576a9405d2
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/5bdaf8ce44d4bfb7c4e136749a70cd4a2dc1513d
+
+四川联通 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/f3998390be633805fbb2003a47d69d33cc7a985b
+
+四川 IPTV 直播源： https://github.com/lavandresj/ypzyco/commit/d132ff0918371c1848b35b5e70df1bc42d7a20cc
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/21aa7ed536371f3039b0e2efe80660fb9aa8832a
+
+云南移动 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/bb04e86f6964f4455466d7aab09dca084bcf8363
+
+云南 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/3f1fd91567922470ef03164995622e686b191207
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/40b67ae1543a8ac647580cd33b972f55a7a4ca2e
+
+贵州移动 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/e2c2e894217bbe4d5698e9816022475497e4320d
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/e11f0a1a6276fd2f23ae3fee7d6851e4315f19b8
+
+贵州联通 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/8ece83242df9915ce7bd0851b1a483398ec60ebf
+
+贵州 IPTV 直播源： https://github.com/lavandresj/ypzyco/commit/4ad95a76afdad49953d2e88dbe9344b27fe173ae
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/528771caef77d14e2ab351c9ff7bf1fd4a1037fb
+
+福建联通 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/1b8d7c1664c6398c77dccdfe2747c1def047582c
+
+福建移动 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/54dc293e1c4aece1e55ca1593a7762cac365f2de
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/1474707ac36c04f61555db40fdaf799a12a8a164
+
+福建电信 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/5d1ebd6b8add08e85c7f269535de784e95c74220
+
+福建 IPTV 直播源： https://github.com/lavandresj/ypzyco/commit/41e4adf4bbaa81bb1d537bf7b3abd630e36d6b88
+
+安徽移动 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/3b31c48aa6d93b6d422cb8ce3c579d643928aa71
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/lavandresj/ypzyco/commit/b0df5c0cbd661173c63189600d7fd950ab2ed320
+
+安徽电信 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/3b7718677a42f6f1be22d3004149424ba3ed3b14
+
+安徽联通 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/5c2587cd4d16be27d6daf951acbe844e39e6621f
+
+安徽 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/8f2d65f3ce7a8ac7692a96f27399cd7536837307
+
+陕西地方台直播源下载地址： https://github.com/lavandresj/ypzyco/commit/a632076a474b0f26094c88ea1528758b51bf27fe
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/8bd45f14e9121a9c60c0db0355ce6ed5c5c7b8f0
+
+陕西电信 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/2d24c535234e212bdc82119c24e6cc452371161b
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/37d94ee01ad7c5d5a75867b42287bbf0794239de
+
+陕西移动 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/437cdd972e820e968ee7a4f1a3f22a5a19eb648e
+
+陕西 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/9c3d8fe0a56f26ac82b0bfd482dce8ba1e4c42b2
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/6214b6f3a2611a10da7a9585676dbd8dc113a99f
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/869fd32321bcfb37eb8cb255ce53709052a12217
+
+甘肃 IPTV 直播源： https://github.com/lavandresj/ypzyco/commit/e058a21d8e5dfa20aa4292a921eb2b0bca340111
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/25dc99344148c756f2af1ba2ff44b543fafeeacb
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/997a125c427fafcdc03ba3b09dd775899f4c131a
+
+山西联通 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/2806ebf5a6130cb2824d6cde19956ea892014362
+
+山西 IPTV 直播源： https://github.com/lavandresj/ypzyco/commit/dc4c118a9a41ce08cfdcf4f132763dff39d0d851
+
+天津电信组播直播源下载地址： https://github.com/ridekayd/tabrtj/commit/4b21dcba231ccbc9501abe2950b524f9f2fe1306
+
+天津联通组播直播源下载地址： https://github.com/lavandresj/ypzyco/commit/c8a7b24ee16384afa23e382150b8989fc80a751e
+
+天津 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/a4ff6d3c7ba540f5ff72e6b14630f5e4a8a2e2cc
+
+上海移动直播源下载地址： https://github.com/lavandresj/ypzyco/commit/746ed93ad59f4c191aec59c47cf47a3f9ec86eec
+
+上海联通组播直播源下载地址： https://github.com/ridekayd/tabrtj/commit/776a43598026e6b3afb8edf2c460feacdf85cff9
+
+上海联通直播源下载地址： https://github.com/lavandresj/ypzyco/commit/e63630750c47d777623bb04c10b63413ce3b6f63
+
+上海电信组播直播源下载地址： https://github.com/ridekayd/tabrtj/commit/0bff8c8328c0d38b862df7af1eb56dfc97693bd7
+
+上海电信直播源下载地址： https://github.com/lavandresj/ypzyco/commit/68528788630a914fe9d506a561c68c34686bb649
+
+上海 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/9791fe8115793e4fa1b8bb77301a74d6160358f5
+
+北京移动 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/fb46ac90e4004c5b8b0c6ad0136ef3c6e32cffba
+
+北京移动组播直播源下载地址： https://github.com/ridekayd/tabrtj/commit/918c787b0b483695b7b941536743f1c7677cffce
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/2d4f756b56150e6a4350241f123966a4e90a07e2
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/bf9ff8a0ee8cd2ffd0574838356314edd4aae78f
+
+北京联通 IPTV 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/1fa3de38f93273e1eae6cc2f1e2a7f3249d57abe
+
+北京 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/114ae4e60b446e904efdf2b9211abb101f47061a
+
+部分地区的移动可全网通用： https://github.com/lavandresj/ypzyco/commit/47166b2853eb114d43ce66da5443c0d792bf2112
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/ridekayd/tabrtj/commit/ce8c23a999e3cab373852b0ad643c7cdad2655f5
+
+广播电台下载地址： https://github.com/lavandresj/ypzyco/commit/6e54e556e031dae2f21941c41ab771bf3f43c2f4
+
+国内景区直播源下载地址： https://github.com/ridekayd/tabrtj/commit/66fe0d472a169e6a682ad887d359add2689e2ee8
+
+轮播华数黑莓下载地址： https://github.com/lavandresj/ypzyco/commit/493a447a5aa62a7174891e2150c14e2b38141697
+
+台湾香港澳门电视台直播源下载地址： https://github.com/ridekayd/tabrtj/commit/8f3a38f7557614b3d69650fe1d8bed6c220d221e
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/lavandresj/ypzyco/commit/a762fefd1dcebc05b1d16e5af89915c4f01793b4
+
+国外电视台直播源下载地址： https://github.com/ridekayd/tabrtj/commit/24ec28b47ce53f71cf72798fde2b2748c7dfd9fd
+
+卫视地方台安徽农大下载地址： https://github.com/lavandresj/ypzyco/commit/f67103a72bad89bdaf97d3d4722f0c03efd7cc0a
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/ridekayd/tabrtj/commit/c3122cae63def977d9fb7dca98549c8803ef02c7
+
+卫视上海源下载地址： https://github.com/lavandresj/ypzyco/commit/e9c1239a8f5fad1c1b875e784be8ce8633d7cf2b
+
+卫视重庆广电 下载地址： https://github.com/ridekayd/tabrtj/commit/7ac1f57c44794a55f95aba0e3dabb2cd7a08528b
+
+卫视百视 TV 下载地址： https://github.com/lavandresj/ypzyco/commit/9c90eaa8d6ab8af24ab2666e71326a09d98e10d8
+
+移动 IPv6 直播源下载地址： https://github.com/ridekayd/tabrtj/commit/771c815f3cfa57e6c7f39f7352ae2f7f0258a2a0
+
+国内电视台 IPv6 直播源下载地址： https://github.com/lavandresj/ypzyco/commit/d777d278a0755ec04c05ddda2060ad9b16471b83
+
+各大卫视、上千个地方台： https://github.com/ridekayd/tabrtj/commit/76075fdbf743ccca3695d8dad6f9fb581fd74e2b
+
+国内电视台直播源下载地址： https://github.com/lavandresj/ypzyco/commit/deca91f4b40b2f6f8083275585583da93ed969b8
+
+全国可用直播源： https://github.com/ridekayd/tabrtj/commit/748fe593df05f78e95c0042e51f237115b69b2fe
+
+包括完整内容所有已知频道： https://github.com/lavandresj/ypzyco/commit/70f95adf9c121d76a16cd8e0e830b97140cf354e
+
+除成人内容以外的已知频道： https://github.com/ridekayd/tabrtj/commit/7411fb7f536eda4a1d15fa1e83320954a069f663
+
+收集来自世界各地公开可用的 IPTV： https://github.com/lavandresj/ypzyco/commit/d867df165591a7830c953247a6af7ba1e914698e
+
+稳定地址： https://github.com/ridekayd/tabrtj/commit/1f848b75536f6f0cc9a7546ce849ce1c4aab77bd
+
+2026-06-29 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/lavandresj/ypzyco/commit/2580c6b7f78289b0c18ed8a0751d18618770811d
+
+2026-06-29 更新 IPTV 工具： https://github.com/ridekayd/tabrtj/commit/867e5ceb3c925627e875e504b21ea2754abbbda5
+
+2026-06-29 更新世界各地 IPTV 频道： https://github.com/lavandresj/ypzyco/commit/665251460eb49f71f58d7d0a74f3c75036419a20
+
+2026-06-29 更新全国可用直播源： https://github.com/ridekayd/tabrtj/commit/896488522b7272b12f67d8faac4351786a91dfc0
+
+新增各地运营商的 IPTV 地址： https://github.com/lavandresj/ypzyco/commit/9f640e8f9ade022a996cf22eca79f83b153978d1
+
+插件推荐： https://github.com/ridekayd/tabrtj/commit/104a28136856e3e1288c22879888fa0e00fddd83
+
+视频教程增加： https://github.com/lavandresj/ypzyco/commit/406e943c0ff3cca7fc38931def2c6f55548bf259
+
+咪咕源失效： https://github.com/ridekayd/tabrtj/commit/f352ded7fefcae0b1d46e4a01f17bf65a3658686
+
+2026-06-29 更新各地运营商 IPTV 直播源： https://github.com/lavandresj/ypzyco/commit/e8e2c1d00b73740cd37ddbfd182eac54fe0ca764
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/ridekayd/tabrtj/commit/de8ed51d645d4cb73b074bb612459067b494f714
+
+新增辽宁广电直播源： https://github.com/lavandresj/ypzyco/commit/3355d1c8d6cbb5832bf72156ff7ec1ed9b633deb
+
+新增江西广电直播源： https://github.com/ridekayd/tabrtj/commit/c96c38fb9264e05d617dfcb0446d56d8e9696171
+
+新增湖北广电直播源： https://github.com/lavandresj/ypzyco/commit/71ffb5de5c670b28e2693a1d34138af244ed7f36
+
+新增中国广电 cctv + 卫视直播源： https://github.com/ridekayd/tabrtj/commit/dbfce34fa3f48b335165eb70085d1f5a191b29a4
+
+新增辽宁电信 IPTV 直播源： https://github.com/lavandresj/ypzyco/commit/0b445bd5f50376ba161c2f1bed2c7451faf3b938
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/ridekayd/tabrtj/commit/357e3bf28fba9c4e8b41c328b8b8f12e67f4deb1
+
+新增辽宁移动直播源： https://github.com/lavandresj/ypzyco/commit/7d90e63cd684ca3fd9c16302982730c5b2734451
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/f1a3fce83e3a071e788f1d7a3875d0e335d6621f
+
+新增广东联通 IPTV 直播源： https://github.com/lavandresj/ypzyco/commit/5c073167b1e804351ab4766271c1a1677cf6361d
+
+新增四川广电 IPTV 直播源： https://github.com/ridekayd/tabrtj/commit/87fa15d39ebc93f6595ec91b8c38f335383c812f
+
+新增云南电信 IPTV 直播源： https://github.com/lavandresj/ypzyco/commit/4e22eab75951ac4de6e1d94508cc18b5a4a6efd5
+
+2026-06-29 更新国内电视台直播源： https://github.com/ridekayd/tabrtj/commit/1931e905730c3291f2941bdee580bcb099c72bfa
+
+新增福建电信 IPTV 直播
