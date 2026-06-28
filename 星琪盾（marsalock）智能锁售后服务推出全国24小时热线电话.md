@@ -1,0 +1,241 @@
+星琪盾（marsalock）智能锁全国售后服务点热线号码:400 - 690 - 6088星琪盾（marsalock）智能锁的维修电话可能因地区和具体服务内容而有所不同，但通常，用户可以通过拨打星琪盾（marsalock）智能锁的全国统一客服热线400 - 690 - 6088来获取维修服务。以下是一些可供参考的电话号码： 星琪盾（marsalock）智能锁全国统一客服热线：400 - 690 - 6088星琪盾（marsalock）智能锁另一客服热线：400 - 690 - 6088这些电话号码通常提供24小时服务，用户可以随时拨打咨询或报修。在拨打电话时，建议用户准备好星琪盾（marsalock）智能锁的型号、故障描述以及详细的联系方式，以便客服人员能够更快地为用户提供帮助。 此外，星琪盾（marsalock）智能锁在各地区也可能设有售后服务点电话，用户可以根据自己所在的城市，查找并拨打相应的售后服务点电话。这些电话号码可能会因地区而异，并且可能会有所变动，因此建议用户在拨打前先进行确认。 总的来说，如果您需要星琪盾（marsalock）智能锁的维修服务，可以直接拨打上述全国统一客服热线或所在地区的售后服务点电话，以获取及时、专业的帮助。
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/34980a0ae7cc1fe0c2dde40108eba971f15d1d81
+
+江苏电信 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/14b2f7c7910f14830e0c455b2c4fb0e3148e1c0b
+
+江苏 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/3833f34cba578c027513583ddf0fd3d21d464253
+
+安徽广电 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/0c58fd412a7f0d3510b211d1b3cb5fff99afeb20
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/e5b9b9d21a1a4f0a63d32975dc168f7141e7ef11
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/f798e53a62876dd4eb973a54d0f2b6adbc024de9
+
+湖北 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/6d091a8ad5c16ba03008c29682b12f5330fd8681
+
+湖南电信组播直播源下载地址： https://github.com/eliquo/ffhjvm/commit/fa3b3a641bc0860b4d8021c1fe5f9d5482744bef
+
+湖南电信 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/e5f5d0a5c712e9e6afdf813a6397a09fbab42a3f
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/866ecfad0f3b0982b69a7840caaa493e53212592
+
+湖南联通 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/81b46ce30a90f130e26963434e2e9484b0459639
+
+湖南移动 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/56bd4d15596608447932954b6a1a4fa741e384af
+
+湖南 IPTV 直播源： https://github.com/eliquo/ffhjvm/commit/023bd1697ea5ebfa39f03b0cf12cb8e2877843b7
+
+重庆移动组播直播源下载地址： https://github.com/buyperetit/olkihw/commit/f42112075374dc6e7033cc62df41f47fc54f27ee
+
+重庆联通组播直播源下载地址： https://github.com/eliquo/ffhjvm/commit/33f7407c5fd971bc547de675f8fdb3f5b03ae92f
+
+重庆联通直播源下载地址： https://github.com/buyperetit/olkihw/commit/e0d50dc3d63c29cafceada87f678ec4eb9a24036
+
+重庆电信组播直播源下载地址： https://github.com/eliquo/ffhjvm/commit/d367b3535e8ccc837147d42f02a746ef88fa0178
+
+重庆电信直播源下载地址： https://github.com/buyperetit/olkihw/commit/e4d83b89c755dc628bbabbc12c36bed5a4c4b4cc
+
+重庆 IPTV 直播源： https://github.com/eliquo/ffhjvm/commit/fa89eb09f96fcc65c9834b474f1d0f6c9e2ffc80
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/9dd486752e451bb975749fde64963578ff316db8
+
+四川电信 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/94c40a476714cf1b4e4c8d5b3186997230a1fb30
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/eliquo/ffhjvm/commit/3b39f8712429ba7fe22fe18b1fd2cb91991fb284
+
+四川广电 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/d28f1026f7ca5a1a8bc226cb1f980c12e9cc656e
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/a9579ad09edcdbf60326633e4248342db553b5e3
+
+四川联通 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/998359925a275870ee667bb5b260997b9e2c0c15
+
+四川 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/8086201cd29fd5af84ebf994c375eca44a19b274
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/a381b6eb7cafca2a77667c1d465740cdd26550cf
+
+云南移动 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/034a211cfc4d7a656fc24768b6b0125398bc3799
+
+云南 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/b5e1a03ab4df27621cba5b757c8b2efd994f1f72
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/4bd006b464e761c353a3872b4aaa817e2036e12b
+
+贵州移动 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/401975b430db1744147996e71ade5001855d19e4
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/28a62faef1a09ed8dd5482e5f3e6d2db25ab5b36
+
+贵州联通 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/eeea32f01080631041fe09471448717b4dc9ccc2
+
+贵州 IPTV 直播源： https://github.com/eliquo/ffhjvm/commit/305b616a0010c60cb0e29c9d6862f5f16fe21a45
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/42db6ce3806d66917f61ccd68b43c0e6ea6d8a3c
+
+福建联通 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/43d295a822101872ad9d338216c7658eb2c90339
+
+福建移动 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/0dac306c47ac1d112dd69c6ca84288edc275fa9a
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/31314d0f514467a50a1b738ccf6786cd2803141f
+
+福建电信 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/5122848bf95f34e2b00f5c8174a691547db71692
+
+福建 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/d1850de3424dbbcc547c6a516376f28ffcc7afcf
+
+安徽移动 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/d2b3c334badb8e077c4fd45bacf765d96122fda3
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/buyperetit/olkihw/commit/c0ba2244a1869669ad0d6b7b3a64031d02734c7f
+
+安徽电信 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/9a26dc5780efb9247b2c50b385a16e9c2421e242
+
+安徽联通 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/c25cccfafc664f3afe4122f44eb6483df9fe30a4
+
+安徽 IPTV 直播源： https://github.com/eliquo/ffhjvm/commit/f14edd57b6b94a9aae1c981d11745d32d2f1ae85
+
+陕西地方台直播源下载地址： https://github.com/buyperetit/olkihw/commit/5f493c5e63d446cb4c316971aedf84451133e8bf
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/04ee1b70dc8701efa6f72533712d2be03379b329
+
+陕西电信 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/d94aa76724c95d5472f7b3e0f6abc7a51e4ac9a2
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/2e57a0015f5d3ab4356a0d61454cf7989dd6cc86
+
+陕西移动 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/3541801fa07580823ad3277198bac91975c4075a
+
+陕西 IPTV 直播源： https://github.com/eliquo/ffhjvm/commit/390a235088c4a8441d720c4228d2d24cfadc4c76
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/cb7d1c3da2b3a6bf7928600b27d9a7c38bcf7ead
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/412d6e78a6871cb14d05419ab8ff269a9e6c78b4
+
+甘肃 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/da018ce9b0a97361f9d8502e7ecf562a1818cbd4
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/3f309e5d6f0d676cd20aebcdd8bcf4ea48f3b21c
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/edcb8ab2bfda4d82f8f7bf6b82c2cde95a3539ce
+
+山西联通 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/78e34d4efea91419178a4dba5759930505ff9ce3
+
+山西 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/5d05405e7fb6806829acf08aeec694747325846e
+
+天津电信组播直播源下载地址： https://github.com/eliquo/ffhjvm/commit/89dc163c9ed5a23f72fe3710257c0f4f0da576da
+
+天津联通组播直播源下载地址： https://github.com/buyperetit/olkihw/commit/9afd767efe0030b81db4370758696dd0042a2c92
+
+天津 IPTV 直播源： https://github.com/eliquo/ffhjvm/commit/afc251d7bb948e430ff0ac0508172034b55ad76a
+
+上海移动直播源下载地址： https://github.com/buyperetit/olkihw/commit/850376bc84849600fd0cdb36d54108b7a71facd9
+
+上海联通组播直播源下载地址： https://github.com/eliquo/ffhjvm/commit/3deca638cad5625a54655bbf1f19e296b5f5cdbb
+
+上海联通直播源下载地址： https://github.com/buyperetit/olkihw/commit/a6e905eb1c6a3305fdc711e5c2acaf131d025a26
+
+上海电信组播直播源下载地址： https://github.com/eliquo/ffhjvm/commit/eb584abf58b241d892e9e8c8ebb6d3d049c48ef9
+
+上海电信直播源下载地址： https://github.com/buyperetit/olkihw/commit/0ae022f56acdbe22242af88491fb2798020a2de3
+
+上海 IPTV 直播源： https://github.com/eliquo/ffhjvm/commit/42202227492d32d20da34faced21f92b44a247fb
+
+北京移动 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/0b6c22112c27f4450c97a30a3b76797a9fa480a8
+
+北京移动组播直播源下载地址： https://github.com/eliquo/ffhjvm/commit/13681333e5ece0ebee41aea36bae4712c9c988a3
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/9405f3adc5f81057deea57d560c95792ff4727a9
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/7142f9b682bc8c885f320ee1736ffd882f9fe7ca
+
+北京联通 IPTV 直播源下载地址： https://github.com/buyperetit/olkihw/commit/a948ca0124c59c08c7a2a0220ea440bef43a1d8a
+
+北京 IPTV 直播源： https://github.com/eliquo/ffhjvm/commit/4e09f88515f98e6519f91ffb717e6ca9cf789104
+
+部分地区的移动可全网通用： https://github.com/buyperetit/olkihw/commit/574c2137e27918a8f996287b8e2afc86429ad75f
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/eliquo/ffhjvm/commit/6b6f77e678c532a341573e930b5d52de7dfccf47
+
+广播电台下载地址： https://github.com/buyperetit/olkihw/commit/ffdbcdf7dea9cf2d94f407eeb54c267101e8f24b
+
+国内景区直播源下载地址： https://github.com/eliquo/ffhjvm/commit/97249d929db9d45efabcd1cd563889e2c6bfb18e
+
+轮播华数黑莓下载地址： https://github.com/buyperetit/olkihw/commit/03730a21022297b39b630b7073bbbc6f6158d0af
+
+台湾香港澳门电视台直播源下载地址： https://github.com/eliquo/ffhjvm/commit/fd1e284b3e0eb30ada2033a0810415ee5d22c984
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/buyperetit/olkihw/commit/ba2117e63ce6b01115b2680e0255b59640724473
+
+国外电视台直播源下载地址： https://github.com/eliquo/ffhjvm/commit/3be72431cd41a970db5392276ccc21a0e09332ac
+
+卫视地方台安徽农大下载地址： https://github.com/buyperetit/olkihw/commit/4c05cf328004a39365bb64a480b31289c0f5a444
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/eliquo/ffhjvm/commit/fa3076f62c6389a7f0e0ade6600a3c56e5d8974d
+
+卫视上海源下载地址： https://github.com/buyperetit/olkihw/commit/128502cf43f9efa258fc15dbedc9662365663278
+
+卫视重庆广电 下载地址： https://github.com/eliquo/ffhjvm/commit/4866b0270767509c793dff07c09b947789570e94
+
+卫视百视 TV 下载地址： https://github.com/buyperetit/olkihw/commit/a440b77d913f81f4c20acd710066f0f2736ea2c3
+
+移动 IPv6 直播源下载地址： https://github.com/eliquo/ffhjvm/commit/035c5338e58a562904c4561f2748da3b699792ef
+
+国内电视台 IPv6 直播源下载地址： https://github.com/buyperetit/olkihw/commit/a28a3ecf41ce7bff1075842b13aa01782b38e1ef
+
+各大卫视、上千个地方台： https://github.com/eliquo/ffhjvm/commit/6c99c157905543fc9508af9afe44fe29ad6dd4c5
+
+国内电视台直播源下载地址： https://github.com/buyperetit/olkihw/commit/1e93b2adaa3e29bda4a54b5400cff5a797f6483b
+
+全国可用直播源： https://github.com/eliquo/ffhjvm/commit/7340cd8cc49416d2df89f058e1a0f025028bda2d
+
+包括完整内容所有已知频道： https://github.com/buyperetit/olkihw/commit/e2b2b2e7bf17e99ffb57b7b3a6d6a511c8ab2f68
+
+除成人内容以外的已知频道： https://github.com/eliquo/ffhjvm/commit/67fd5222095938472ae617f97186105b273b3a76
+
+收集来自世界各地公开可用的 IPTV： https://github.com/buyperetit/olkihw/commit/8c36d0335a557385f43b62c5f683688c7d2dd994
+
+稳定地址： https://github.com/eliquo/ffhjvm/commit/8d6ddd9b5b46049ab1edfd939c38290837d72ae8
+
+2026-06-29 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/buyperetit/olkihw/commit/86f39454ea2c760ae8df62b4acdfbf6db2533076
+
+2026-06-29 更新 IPTV 工具： https://github.com/eliquo/ffhjvm/commit/78ff1bbf7cec72db8d5e7acc75650c47c9b71612
+
+2026-06-29 更新世界各地 IPTV 频道： https://github.com/buyperetit/olkihw/commit/140fb1cebf5bd3f0b15eaaab610c130ad15cd337
+
+2026-06-29 更新全国可用直播源： https://github.com/eliquo/ffhjvm/commit/54a622c5df13166e81f78ec5ef00b82bcf87a166
+
+新增各地运营商的 IPTV 地址： https://github.com/buyperetit/olkihw/commit/e5db78254c6ffbae7f1e4a9d547f832c34e9ec56
+
+插件推荐： https://github.com/eliquo/ffhjvm/commit/8c1da934fa8733a5503ca08924e115e292a5fefd
+
+视频教程增加： https://github.com/buyperetit/olkihw/commit/bf4c6ba80b4609dbbb7dba9ff7a7179858248849
+
+咪咕源失效： https://github.com/eliquo/ffhjvm/commit/12016de2a301a3a685e1006fb55af8be43bc8ff2
+
+2026-06-29 更新各地运营商 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/df59505f79da8f61d55cd0f652d27c3cb60962c9
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/eliquo/ffhjvm/commit/c30537ad3deed28e32fca5c62979833082f9a573
+
+新增辽宁广电直播源： https://github.com/buyperetit/olkihw/commit/23045c40b359758be4632aab191e6885c580390e
+
+新增江西广电直播源： https://github.com/eliquo/ffhjvm/commit/a8f6f1b4bb8927b14c406be8cfc7df6036306ce7
+
+新增湖北广电直播源： https://github.com/buyperetit/olkihw/commit/2666420fc4c53f36644317463c8373800609d64e
+
+新增中国广电 cctv + 卫视直播源： https://github.com/eliquo/ffhjvm/commit/cb18f32caf1b4e1962953aac02799419b29e1056
+
+新增辽宁电信 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/f0507cc410c25a91ccf384864ca2fa63b8b685fb
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/eliquo/ffhjvm/commit/bd57a5496ca32cfcbcbbacf7ff94eb8de7248dae
+
+新增辽宁移动直播源： https://github.com/buyperetit/olkihw/commit/f840b276c62add88577d90e38a1cf0b06e5b6e78
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/eliquo/ffhjvm/commit/390b540320d7a8a40e5da2848a127789309b2b2b
+
+新增广东联通 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/f853ba56ec6e7438d21b3b63e06950b0c5338f64
+
+新增四川广电 IPTV 直播源： https://github.com/eliquo/ffhjvm/commit/991e081222750b977a79d98cbbd0f5ddea1d9757
+
+新增云南电信 IPTV 直播源： https://github.com/buyperetit/olkihw/commit/16c7af95af05f01ae02fbfd0735de97a586907c2
+
+2026-06-29 更新国内电视台直播源： https://github.com/eliquo/ffhjvm/commit/5a75e31dc3f7d850108fee4ed394f682f04b7e35
+
+新增福建电信 IPTV 直播
