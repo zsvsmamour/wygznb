@@ -1,0 +1,260 @@
+新多（Xinduo）智能门锁全国统一售后服务电话𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑
+新多（Xinduo）智能门锁24小时人工服务上线
+新多（Xinduo）智能门锁推出全国24小时各售后客服受理中心(更新上线)
+新多（Xinduo）智能门锁24小时售后服务客服热线：𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑全国24小时人工电话客服为您服务。
+新多（Xinduo）智能门锁售后维修维修-24小时提供故障维修热线：𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑
+新多（Xinduo）智能门锁售后服务团队在调度中心的统筹调配下，全国24小时人工电话客服𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑线下专业全国网点及各地区售后人员服务团队等专属服务，
+整个报修流程规范有序，后期同步跟踪查询公开透明。所有售后团队均经过专业培训、持证上岗，
+所用产品配件均为原厂直供，新多（Xinduo）智能门锁常见故障代码维修指南新多（Xinduo）智能门锁出现故障时，别急，先看屏幕上的故障代码。
+比如，E10表示元部件问题，E20则是过热保护。根据这些代码，可以按以下步骤操作：重启机器，看是否为偶发故障。
+检查机器供应是否正常，电源是否开启。清理电器周围的杂物，确保通风良好。
+若频繁出现同一故障代码，可能是部件损坏，需联系专业维修人员。记住，非专业人士不要擅自拆修，
+以免造成更大损失。这样简单几步，就能帮你快速应对新多（Xinduo）智能门锁的常见故障，让温暖不再缺席。
+新多（Xinduo）智能门锁全国24小时各售后受理客服中心(2026年更新)
+2026年06月29日00时49分34秒(UTC+8)##新多（Xinduo）智能门锁售后电话新多（Xinduo）智能门锁售后服务电话𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑专业维修新多（Xinduo）智能门锁机器失灵，
+开机显示错误代码，不通电，开机不启动，自动跳闸、效果不好、清洗、消毒、维护保养、安装、拆装移机等服务。
+新多（Xinduo）智能门锁售后维修全国服务区域： 北京市（东城区、西城区、崇文区、宣武区、朝阳区、丰台区、石景山区、海淀区、门头沟区昌平区、大兴区）
+天津市，无锡市、镇江市、扬州市、嘉兴市、常州市、泰州市、昆山市、句容市、张家港市、西安市、温州市、济南市、长春市
+上海市，（黄浦区、徐汇区、长宁区、静安区、普陀区、虹口区、杨浦区、浦东新区、闵行区、宝山区、嘉定区、金山区、松江区、青浦区、奉贤区和崇明区。）
+重庆市，（大渡口区、江北区、沙坪坝区、九龙坡区、南岸区、北碚区、渝北区、巴南区、江津区、渝中区、和两江新区、重庆高新区。）武汉市，（江岸区、江汉区、硚口区、汉阳区、武昌区、青山区、洪山区、蔡甸区、江夏区、黄陂区、新洲区、东西湖区、汉南区）成都市，（锦江区、青羊区、金牛区、武侯区、成华区、龙泉驿区、青白江区、新都区、温江区、双流区、郫都区、新津区）南京市，（玄武区、秦淮区、建邺区、鼓楼区、浦口区、栖霞区、雨花台区、江宁区、区、溧水区、高淳区。）杭州市，（滨江区、萧山区、余杭区、临安区、富阳区、上城区、下城区、西湖区。）无锡市，（锡山区、惠山区、滨湖区、梁溪区、新吴区；江阴市、宜兴市。）长沙市，（芙蓉区、天心区、岳麓区、开福区、雨花区、望城区。）宁波市，（海曙区、江北区、镇海区、北仑区、鄞州区、）苏州市（吴中区、相城区、姑苏区（原平江区、沧浪区、金阊区）、工业园区、高新区（虎丘区）、吴江区，原吴江市）合肥市，（蜀山区、包河区、庐阳区、瑶海区、政务区、经济技术开发区、高新区、滨湖新区、新站区、长丰县、肥东县、肥西县，巢湖市。）
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/3b9b674fd72ebf4451043e47b5b28f0c0abd072e
+
+江苏电信 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/ce139890e033506f47d47a04818b95935017f168
+
+江苏 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/bf3abbbe68c7f5dfb304b817d98861e8a138f0a7
+
+安徽广电 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/9bacee425f244594bada645bc4326eb155dd47b6
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/1f5b9d43c492c3476bc602a2171a21c098a5b015
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/d2c8e26f602bc2328ae29cfde84acc26f3785278
+
+湖北 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/c3917cf71d702439b5925badec0e1da40c640dae
+
+湖南电信组播直播源下载地址： https://github.com/ajilp/eexjlq/commit/6077bafc02c3f48dd2a198281e21cf45a9817116
+
+湖南电信 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/a29fdefbda51ff0cf091ba37aeaa792b1d6cb8d5
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/d27dc46b10d4b009e1c3c54574226b7dc406cc1f
+
+湖南联通 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/02704a4687967638558b2a0bf614e3ec263c96ec
+
+湖南移动 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/cc84db71a2a947cdabddb3de1f895540b5e7ea7b
+
+湖南 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/589074f3a20a60a90079ed29af47d7fb8389043f
+
+重庆移动组播直播源下载地址： https://github.com/ajilp/eexjlq/commit/4ffa9f6136962c62c1f93f9a22e80ebcb8130241
+
+重庆联通组播直播源下载地址： https://github.com/ainlabs/ilcgix/commit/a7a76712a5859d0fe09c74cd8bbd08b64914f93e
+
+重庆联通直播源下载地址： https://github.com/ajilp/eexjlq/commit/add8e25be5e2ca9086702546620fcd5fbf377cc1
+
+重庆电信组播直播源下载地址： https://github.com/ainlabs/ilcgix/commit/c83bc8dcb0ed7411da79835c9325c023e04ff475
+
+重庆电信直播源下载地址： https://github.com/ajilp/eexjlq/commit/50b781f3bab9ffc09ba2d5eb3833b5d4e7f9f9ec
+
+重庆 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/08001bfd0b43017ec1d51a61e30ce4f1fd64c8cf
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/65e4e1937daf6f94665fa0f42c5d7e150c55bf1f
+
+四川电信 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/d1661fd5d054d1f904c7c14f90d4045557621df7
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/ajilp/eexjlq/commit/6f4b6b9f6b0879407aeab3fdf966e07b81c277c7
+
+四川广电 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/6f1a6c5605c386bb169bb4a173835a3ea2c34e36
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/faec373c70ffcaecd7d21debc769b38ab2163556
+
+四川联通 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/43ec71f433f991a776c97862d85e62fefde33356
+
+四川 IPTV 直播源： https://github.com/ajilp/eexjlq/commit/e84a7edb128a93ee7b787f094f6033dc96888169
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/06a6a5890ae2b1f179738cc8ca44e69dba94ec12
+
+云南移动 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/304e86b0cb126f63c942a9ba69f8ba2edcaf35ab
+
+云南 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/a2debb0e92b1d03374dfa41b824b0613267ed4f4
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/816be51144fd5c4fba55ff302334786bdc5c8421
+
+贵州移动 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/0df8d701a57dc86cd8fe4149b30cbd828701ab40
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/4f4eeb243970ac50485d73f75d90fdd9f564cd36
+
+贵州联通 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/91adc1c1f244bd262ac2f66d43a145ccc6765d41
+
+贵州 IPTV 直播源： https://github.com/ajilp/eexjlq/commit/d1e29bd904e5ca080ec12aaa1165341624ace13c
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/22e1bd76986caaac953e17130f71b81eba64f252
+
+福建联通 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/7266d86493db636a465972ca61bf8c1e086edc86
+
+福建移动 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/a903fe849820acb55227b168cc502039f6625091
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/646d5d4ee3593ca0cdfec1059b6e1ea40df2b3b3
+
+福建电信 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/a886330bbf75674b4401642a7cde502bf6c40e4c
+
+福建 IPTV 直播源： https://github.com/ajilp/eexjlq/commit/53831dfc49be139881337d051aab6dcb40cc7260
+
+安徽移动 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/6bf91b44897aacf222ad2a403b81a06856b5a750
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/ajilp/eexjlq/commit/43690a7fa83d2aa3a3093da23533ec64a1ea6569
+
+安徽电信 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/4722e58777121c5c0e49be020c47377df008b596
+
+安徽联通 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/91152a9cdd9f7863de1d06db80304b2b9c219512
+
+安徽 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/812d00b90f17aec4f42c2dc4faf397d70393c0c6
+
+陕西地方台直播源下载地址： https://github.com/ajilp/eexjlq/commit/72fd3cdea0a0acfd217519e00ff183a24ee86f98
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/55fe901355a8b0ad3879d76f19a4747d0ec6b680
+
+陕西电信 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/e74e25a64ea3710c032102fa617d2a61ec7dc21f
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/75068b473d086c8f3648ca27731ea7aa8e1c8103
+
+陕西移动 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/4e26548678da1cd95d045eab6408b572a2c1519c
+
+陕西 IPTV 直播源： https://github.com/ajilp/eexjlq/commit/6bb7ecf98dd6ae8a1b956ebcbeea9c75efbe4bea
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/829cb4bcede690e9e3fa3a25fd2236f4a1b6ca51
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/dc89da88e949673b3cee76e2b3995c8656c09f5e
+
+甘肃 IPTV 直播源： https://github.com/ajilp/eexjlq/commit/2fc7c43fe55096d6ec2ab7363e02bcab5a6b3851
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/d3e3214388f7cf78bb0ced7884f7a8b06d23f08d
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/87117bea55613dd4ced411afc5ee374ad27feab3
+
+山西联通 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/3d077b7acfaf6e4e98f9af0883136505f6d59b39
+
+山西 IPTV 直播源： https://github.com/ajilp/eexjlq/commit/c2bc83f3be8af4a016e6c089de5931405d188df9
+
+天津电信组播直播源下载地址： https://github.com/ainlabs/ilcgix/commit/0088fc84c010a10245dc988438bc2fb641038c2e
+
+天津联通组播直播源下载地址： https://github.com/ajilp/eexjlq/commit/2e6600d28055b139ea2074c09e921b18294a6e5d
+
+天津 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/382c3de7de65819e0e095d8b67da5c02947b7aaa
+
+上海移动直播源下载地址： https://github.com/ajilp/eexjlq/commit/930c47646f784bc17ba28cd9d7229222ef33b08b
+
+上海联通组播直播源下载地址： https://github.com/ainlabs/ilcgix/commit/6ef05d18d120463fef2aa58f069da8393ef7ecb2
+
+上海联通直播源下载地址： https://github.com/ajilp/eexjlq/commit/820da2f1b415accc9e1801186090d8cae097cf40
+
+上海电信组播直播源下载地址： https://github.com/ainlabs/ilcgix/commit/31a3d4d650bc59f10da7586f3c33f70d46295048
+
+上海电信直播源下载地址： https://github.com/ajilp/eexjlq/commit/cf415dd64125353f9653ed3c2277f99c4c01a45b
+
+上海 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/e7e411dd591b48045a5b72826f8a957bc944d2de
+
+北京移动 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/0a8dcb8929aacd8a7c88331fbdd20c437551ceb8
+
+北京移动组播直播源下载地址： https://github.com/ainlabs/ilcgix/commit/0bc73a7564aa576fa6b9d7533693a04fec56c422
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/c358c272bcddb55091fe65a7db6d99df477355d2
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/77cd368ed0557fc36c42aba5ec55b8be4407e9b5
+
+北京联通 IPTV 直播源下载地址： https://github.com/ajilp/eexjlq/commit/7983bbad8092eac02b361205eda188287c38b693
+
+北京 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/aefda1c8b4e9f46389e39640580445b46525ddb8
+
+部分地区的移动可全网通用： https://github.com/ajilp/eexjlq/commit/58348c3b43585faa0dd4c36a28f8917cdd27e99a
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/ainlabs/ilcgix/commit/57d416429da9d9088f222524f9029b9b3ce62db8
+
+广播电台下载地址： https://github.com/ajilp/eexjlq/commit/74229ba9efdde3a8035d763de1ebe3c7b6caa5c8
+
+国内景区直播源下载地址： https://github.com/ainlabs/ilcgix/commit/4c1d284343e75b10b84c4f4d64e283838547cfae
+
+轮播华数黑莓下载地址： https://github.com/ajilp/eexjlq/commit/4a338d77b0bfec72f3f28721af5c99112a374e86
+
+台湾香港澳门电视台直播源下载地址： https://github.com/ainlabs/ilcgix/commit/df50a58caf7c4095a6327a834c68b615014e2ef5
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/ajilp/eexjlq/commit/4ac1291c274e6a641e5086a9b333ceef4fb06ee7
+
+国外电视台直播源下载地址： https://github.com/ainlabs/ilcgix/commit/484977fcec9ae744d5afc9d3976680d51c5df6a8
+
+卫视地方台安徽农大下载地址： https://github.com/ajilp/eexjlq/commit/fb9b7c84e10a0c47f132dcb169e90616f7ea779f
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/ainlabs/ilcgix/commit/684278f7ee957a9f769c90b921e523aae6a9362b
+
+卫视上海源下载地址： https://github.com/ajilp/eexjlq/commit/b8e21578ed4c165db77389e2676048fe2baafabf
+
+卫视重庆广电 下载地址： https://github.com/ainlabs/ilcgix/commit/744c73e00fbf978e4052831bcce2a60957200521
+
+卫视百视 TV 下载地址： https://github.com/ajilp/eexjlq/commit/005d1483ce22f80ad49995d762b70776e8d05778
+
+移动 IPv6 直播源下载地址： https://github.com/ainlabs/ilcgix/commit/aff72316491042ded795d62efb7906fcbe31030f
+
+国内电视台 IPv6 直播源下载地址： https://github.com/ajilp/eexjlq/commit/1024a95a5d9ecaa59624aea80735a246ac0f3bdb
+
+各大卫视、上千个地方台： https://github.com/ainlabs/ilcgix/commit/9aefefdfd23322fa8a3e9109cfdb8bdd053aa672
+
+国内电视台直播源下载地址： https://github.com/ajilp/eexjlq/commit/6f34f2582531206e81d115e66119536dedc44fbd
+
+全国可用直播源： https://github.com/ainlabs/ilcgix/commit/69dafded2184169218cbcbded28d45a87a81de27
+
+包括完整内容所有已知频道： https://github.com/ajilp/eexjlq/commit/6a62f8d5c96c52179770ee1a7c3b920c0014e66b
+
+除成人内容以外的已知频道： https://github.com/ainlabs/ilcgix/commit/5845b7ad5592c0d8d6ea5ae1255130abc5d8725d
+
+收集来自世界各地公开可用的 IPTV： https://github.com/ajilp/eexjlq/commit/4f34fe637f8db44a1df87dbc9f922786e0e64321
+
+稳定地址： https://github.com/ainlabs/ilcgix/commit/56bf8c5494ef014af07b5a31bcd948599af35146
+
+2026-06-29 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/ajilp/eexjlq/commit/ca782ba000b29b232573133b572cff6e6054e1c4
+
+2026-06-29 更新 IPTV 工具： https://github.com/ainlabs/ilcgix/commit/220a75435d95e98b098d86a420a02d988eb13fca
+
+2026-06-29 更新世界各地 IPTV 频道： https://github.com/ajilp/eexjlq/commit/3dfe06a26c5b4922041a9502e130fad6cbdd7e46
+
+2026-06-29 更新全国可用直播源： https://github.com/ainlabs/ilcgix/commit/43722002482a302ff4cc31e647b5fabd3f914b72
+
+新增各地运营商的 IPTV 地址： https://github.com/ajilp/eexjlq/commit/dbb74c42279506a351550e54340457965ccead06
+
+插件推荐： https://github.com/ainlabs/ilcgix/commit/84fc157c2274c4da9e3938f9764011d317552a4d
+
+视频教程增加： https://github.com/ajilp/eexjlq/commit/45bb16e76c9733fc2c91d44e0a2d2d18a80eee5d
+
+咪咕源失效： https://github.com/ainlabs/ilcgix/commit/c1cb0ec6985b5677c3cdeb2bd4507b876a9a4de2
+
+2026-06-29 更新各地运营商 IPTV 直播源： https://github.com/ajilp/eexjlq/commit/b760ef004fc7212670dc90294a63d1d4c0a49ae1
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/ainlabs/ilcgix/commit/d8696f2a68fb823a541392c807d1224e6ab08202
+
+新增辽宁广电直播源： https://github.com/ajilp/eexjlq/commit/6eabc6cd347ec8947924684e72ace8a0deac9b7f
+
+新增江西广电直播源： https://github.com/ainlabs/ilcgix/commit/25d3a6d1142ac7bc4e01b023216c794754524a14
+
+新增湖北广电直播源： https://github.com/ajilp/eexjlq/commit/4d0d59fc0d03efe5dd9f74c67ea206e8b82147f6
+
+新增中国广电 cctv + 卫视直播源： https://github.com/ainlabs/ilcgix/commit/4b13442337bb400d42debb9f9d8dd8a61e47782a
+
+新增辽宁电信 IPTV 直播源： https://github.com/ajilp/eexjlq/commit/8fbf8b4677e8aa5612a7ab8b52e3d2dd6003894e
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/ainlabs/ilcgix/commit/fae47196416db1a71078b91e5d2f24a31ad8ab96
+
+新增辽宁移动直播源： https://github.com/ajilp/eexjlq/commit/bb1f35c88351f4c84d6ffa31c9f3508005aab1c9
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/e3b0fdb9f7ecc24fc82e819957411e898b962477
+
+新增广东联通 IPTV 直播源： https://github.com/ajilp/eexjlq/commit/b219d4d078af978133698434836da10c8854d6bf
+
+新增四川广电 IPTV 直播源： https://github.com/ainlabs/ilcgix/commit/1a199916503a312be62b0a3b5b89b4caf6024708
+
+新增云南电信 IPTV 直播源： https://github.com/ajilp/eexjlq/commit/551dd3814e53c6dc3dbe38cb4335b4239a05353d
+
+2026-06-29 更新国内电视台直播源： https://github.com/ainlabs/ilcgix/commit/26efdc4df3f812cd998f7df4387632e1daf41c21
+
+新增福建电信 IPTV 直播
