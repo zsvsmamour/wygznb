@@ -1,0 +1,241 @@
+大德利（D.DELI）门锁全国售后服务点热线号码:400 - 690 - 6088大德利（D.DELI）门锁的维修电话可能因地区和具体服务内容而有所不同，但通常，用户可以通过拨打大德利（D.DELI）门锁的全国统一客服热线400 - 690 - 6088来获取维修服务。以下是一些可供参考的电话号码： 大德利（D.DELI）门锁全国统一客服热线：400 - 690 - 6088大德利（D.DELI）门锁另一客服热线：400 - 690 - 6088这些电话号码通常提供24小时服务，用户可以随时拨打咨询或报修。在拨打电话时，建议用户准备好大德利（D.DELI）门锁的型号、故障描述以及详细的联系方式，以便客服人员能够更快地为用户提供帮助。 此外，大德利（D.DELI）门锁在各地区也可能设有售后服务点电话，用户可以根据自己所在的城市，查找并拨打相应的售后服务点电话。这些电话号码可能会因地区而异，并且可能会有所变动，因此建议用户在拨打前先进行确认。 总的来说，如果您需要大德利（D.DELI）门锁的维修服务，可以直接拨打上述全国统一客服热线或所在地区的售后服务点电话，以获取及时、专业的帮助。
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/555e175e9f25fe656b18d812c8a39347dff54c38
+
+江苏电信 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/efe1b079f282f84a9516d5c424d82065363432ad
+
+江苏 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/ed5d6c8eb14e92d19d1b7796f5b650636b0e1c01
+
+安徽广电 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/095faae0d28c0365b731edecb2b875af2cc6ffd5
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/18a2a630e665eee32bc45e8d0ed8cf31bda7a8e7
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/3bff8a90e4f8eba8a8d11f7006e63ec59c4b344d
+
+湖北 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/d37169d228bfb32064aa24144b1a24828de48bd4
+
+湖南电信组播直播源下载地址： https://github.com/floxx123/wrdljd/commit/60688ba4d6a36b391a389adfef8c8138e913ecac
+
+湖南电信 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/fdff0fa9abdc2c749d607cfa4eb11c0acfc57bb7
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/72515aa04bce0ecdbd3bcb69f8c50bd83284f00d
+
+湖南联通 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/95105f948b668508dcd27eda4e2bf4485bfff93c
+
+湖南移动 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/55b1120f416a1c6ff084f9898dd9425bda3b6f86
+
+湖南 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/b1165ffe89fc0b1c5ba1821338f73237b4a55996
+
+重庆移动组播直播源下载地址： https://github.com/floxx123/wrdljd/commit/498330d54c04717e53438fa3744ad6fafd3e27cb
+
+重庆联通组播直播源下载地址： https://github.com/izuremenev/eooygs/commit/9a2daa3268851fde7333e8be280e6c7e8b9d9629
+
+重庆联通直播源下载地址： https://github.com/floxx123/wrdljd/commit/7fdf3c68c7433e46703eaa14283db0c1e3c74dd6
+
+重庆电信组播直播源下载地址： https://github.com/izuremenev/eooygs/commit/9fec03a87d3be2b528d22ae52fe1f0d82d10d024
+
+重庆电信直播源下载地址： https://github.com/floxx123/wrdljd/commit/146bcea89a0e635fde809b298d337c69ed0e2968
+
+重庆 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/5ab4cb3dd65db1b94c7e8436ba3306ed61340257
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/5cc9e51d9f6329dd4df0c011d0ab776c317595e8
+
+四川电信 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/13fee5fbf97be115e0599ee6a4b4d944d8b3c0ba
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/floxx123/wrdljd/commit/4f12d19f23073847ef961f8870c6ee7ff8c6466d
+
+四川广电 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/75072d429cf34ea30ed9a6f24cc7aa8c89294343
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/b97019f8b3027e334382d232ebada7f2dd4e028b
+
+四川联通 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/7d34e1628520e7a7689187814d8d85dfae508ad5
+
+四川 IPTV 直播源： https://github.com/floxx123/wrdljd/commit/80a4500bb9825b216b74bdc8296bca67eee3d126
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/340bc6a51260015cda67f4aac8e4fccfcba3d400
+
+云南移动 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/1ed6495bf504cbbd7c3a48ae5fad4716578c951d
+
+云南 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/45f2eb57b817b602609813b041b3f4906ced11ca
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/96576384b3396d324beee1e684d3c1845f4595cd
+
+贵州移动 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/c7d09b40c4e64c6c5071c756f3036ffad68b3a62
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/0e577ca4440ad7254a814f61ccd1d1e5c885ac61
+
+贵州联通 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/99a186cf036c2ff5dec706d063361c7088162396
+
+贵州 IPTV 直播源： https://github.com/floxx123/wrdljd/commit/afaaefc78b10b1ed8c154a9ddc408ea9634f1c5a
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/decc545e7f697bb59f380644f1820785b6451195
+
+福建联通 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/3db88b35402171095baf44e6716e6b8c4218b436
+
+福建移动 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/5c16d06e8b51769887b5a21914c68929866913f1
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/3221e895dbad41e54c42348fd0a9df5a1d52e9a1
+
+福建电信 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/dd768da6829a5fdbbebb0acc3b8ed432a86516e4
+
+福建 IPTV 直播源： https://github.com/floxx123/wrdljd/commit/d8562f54118bb95189898647b57f2b5283ff8a37
+
+安徽移动 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/93af27968f9c85dd04395dad65f540d1030ab020
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/floxx123/wrdljd/commit/e15feb6c64f255ba80b5f019e3c41c7dc4e4033f
+
+安徽电信 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/e11e613eeb75ec8544e340bb84160cdc8bc64ddf
+
+安徽联通 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/c31032feb07ac13bd413302238790e99abdfc387
+
+安徽 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/5bfb4bbde0b3b1d184ca53fc57eb0d9277cb4949
+
+陕西地方台直播源下载地址： https://github.com/floxx123/wrdljd/commit/c079fc7789f60d913e4032c4709e97e13635bfb2
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/50f2d9e074ec9d4d4bc1f098fc361cdff5c23667
+
+陕西电信 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/e5111526b8d3f859f40afaaf7d33d8e0a6a04baf
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/5acba46acae586f41825cd8121c17efb68f48e1f
+
+陕西移动 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/02e449a6c1cad55435a9a5367a8e7e9973824d39
+
+陕西 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/c10d738bd3f90ce4562deeb5cc72967a22e6744c
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/4d4b583ad707a851aaa76ce519b4e0cf6a22dc9a
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/9eadafb0710ce42759a5661150312c901ab80d33
+
+甘肃 IPTV 直播源： https://github.com/floxx123/wrdljd/commit/43232424217da68190ca3a64873ebb403ba23443
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/66ebdbc356c94215d39a5867a64b76a71a02aeef
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/cd1dbd12e9b991cb525f0b76d3831b392f2b5133
+
+山西联通 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/07be88b8c4b255612b37fc1e96a4dba680b36e5e
+
+山西 IPTV 直播源： https://github.com/floxx123/wrdljd/commit/f00690fbc4911b602261431f12326fb820f83834
+
+天津电信组播直播源下载地址： https://github.com/izuremenev/eooygs/commit/9d580f770abff37c7539290616910fd7a8d72df4
+
+天津联通组播直播源下载地址： https://github.com/floxx123/wrdljd/commit/fe88dec0363127d86c8389f338e76ec8f4a81abb
+
+天津 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/28ffbf81d7f97f512a4e68f178f36fa180711228
+
+上海移动直播源下载地址： https://github.com/floxx123/wrdljd/commit/cfee6a2a5beb91fd6f6f7abd72e43dbf325cd7c0
+
+上海联通组播直播源下载地址： https://github.com/izuremenev/eooygs/commit/851a9f4c15bdaab1dcc23fc55b3a17150a5dd154
+
+上海联通直播源下载地址： https://github.com/floxx123/wrdljd/commit/12603cd0adea9effd5591c4dea3c39a013f6bc64
+
+上海电信组播直播源下载地址： https://github.com/izuremenev/eooygs/commit/6b5a466264c197e235ebf1f0ebf1e85430061642
+
+上海电信直播源下载地址： https://github.com/floxx123/wrdljd/commit/6a893914307cb9676db29834841c1828e0fcca9d
+
+上海 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/b6d77b63d45a2fd5081b775ff1c211f7b7587697
+
+北京移动 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/069c0463dd610950c6c61cab602696c6c3c9fcba
+
+北京移动组播直播源下载地址： https://github.com/izuremenev/eooygs/commit/63f66af3fcad1ba60c3d3e58a50a82c11a817526
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/fb66d1dd2ca157f48fe8f6e5d27785df12a987ab
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/izuremenev/eooygs/commit/955b678e42ae8f5c21fc3c37ae3fce4698278365
+
+北京联通 IPTV 直播源下载地址： https://github.com/floxx123/wrdljd/commit/3c94e8c3b348b0c507acf1804a24d3410aa7fccf
+
+北京 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/9fe4b3abb1f93afbf1a02e3d531cb24b8dbac2ab
+
+部分地区的移动可全网通用： https://github.com/floxx123/wrdljd/commit/e1974a589e43d4d59a36fba94d9f61cb5360feb2
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/izuremenev/eooygs/commit/5a996a5971fe19dccba095434409f5e0ef8bc511
+
+广播电台下载地址： https://github.com/floxx123/wrdljd/commit/0f37450947ce840321486c9a0b8e6d5de42f0532
+
+国内景区直播源下载地址： https://github.com/izuremenev/eooygs/commit/e353441dabdd6afa94d34eff98433b91c16dddbe
+
+轮播华数黑莓下载地址： https://github.com/floxx123/wrdljd/commit/da3ec03fe969d72f93a09fb85c52def6a97148a2
+
+台湾香港澳门电视台直播源下载地址： https://github.com/izuremenev/eooygs/commit/6f0c9c852034a10eec56210db4a6f85d6a3022df
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/floxx123/wrdljd/commit/b96978f83b8d7a44c6d34063fa27a0348de9e4ee
+
+国外电视台直播源下载地址： https://github.com/izuremenev/eooygs/commit/0333e5b02a75d399f8b3bb26f7435c000e120d33
+
+卫视地方台安徽农大下载地址： https://github.com/floxx123/wrdljd/commit/8e369d2a4394e272ca85d1d2ce2d38ce10167495
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/izuremenev/eooygs/commit/e98cd181c2811e7157936446ea897f34ccfdc13e
+
+卫视上海源下载地址： https://github.com/floxx123/wrdljd/commit/5260e681fb09c3223b3825a01f31b4800d4735ed
+
+卫视重庆广电 下载地址： https://github.com/izuremenev/eooygs/commit/58ffbf13124bec8f2d153af99281bbf1d7adf25b
+
+卫视百视 TV 下载地址： https://github.com/floxx123/wrdljd/commit/ba88cd33372d7b542cd3dac97e56598ba0278168
+
+移动 IPv6 直播源下载地址： https://github.com/izuremenev/eooygs/commit/3d867070b6c14dfd6c7bb556841f048ac3b2d52d
+
+国内电视台 IPv6 直播源下载地址： https://github.com/floxx123/wrdljd/commit/fc242a1f57201cc7587e0084ca899b2513ff5db7
+
+各大卫视、上千个地方台： https://github.com/izuremenev/eooygs/commit/f58e347bdb403c20f5136d1f43e8490f36764afd
+
+国内电视台直播源下载地址： https://github.com/floxx123/wrdljd/commit/0124e90fbbda61097bfdf0e6dda7354b7c7f8187
+
+全国可用直播源： https://github.com/izuremenev/eooygs/commit/5b9543c939743b7ee3a9e32169c5ad93cd8ee23a
+
+包括完整内容所有已知频道： https://github.com/floxx123/wrdljd/commit/97775ea4a4f57b44684b731d87740deb7699f080
+
+除成人内容以外的已知频道： https://github.com/izuremenev/eooygs/commit/fcf66449d48027654db1df03986d5fa9e76b39fe
+
+收集来自世界各地公开可用的 IPTV： https://github.com/floxx123/wrdljd/commit/c9a8efd8368f9c2c01b867bbddc888f17b22da07
+
+稳定地址： https://github.com/izuremenev/eooygs/commit/6523fad238c630d9b9de76de96817edf8ba0746f
+
+2026-06-29 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/floxx123/wrdljd/commit/3c7cd051238194019151a8669c803bdea1945b86
+
+2026-06-29 更新 IPTV 工具： https://github.com/izuremenev/eooygs/commit/23a8dc02f8c90a7adb8d70dc4d87e552f86592e4
+
+2026-06-29 更新世界各地 IPTV 频道： https://github.com/floxx123/wrdljd/commit/5f258d505fb517e72520554dc977fe43facd6d71
+
+2026-06-29 更新全国可用直播源： https://github.com/izuremenev/eooygs/commit/a778bc7ca00ed48fd0da06b7510f056ebbea155a
+
+新增各地运营商的 IPTV 地址： https://github.com/floxx123/wrdljd/commit/cd2b834264dd2abea0deaf7539c6115f5c0a2b08
+
+插件推荐： https://github.com/izuremenev/eooygs/commit/06f372b28c95070b1ce7fcfc3aa8983adac33978
+
+视频教程增加： https://github.com/floxx123/wrdljd/commit/f0332b0563b6af3e43d093b4f95971f6f103d771
+
+咪咕源失效： https://github.com/izuremenev/eooygs/commit/23528034592d387d8cc05a223e26fb59579c162a
+
+2026-06-29 更新各地运营商 IPTV 直播源： https://github.com/floxx123/wrdljd/commit/89cf26c8ff30cfad342981e31e2de281ed6dcdeb
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/izuremenev/eooygs/commit/781eecec5e58ba18c470b73b171a256d42b82977
+
+新增辽宁广电直播源： https://github.com/floxx123/wrdljd/commit/38edb2db6a256a4c3524edf2d826c4348ef598f6
+
+新增江西广电直播源： https://github.com/izuremenev/eooygs/commit/c6306fefba8625fcf3929aea31032b864dfc96ee
+
+新增湖北广电直播源： https://github.com/floxx123/wrdljd/commit/77d16e6b5ec115879ed7017b7460523f749270b3
+
+新增中国广电 cctv + 卫视直播源： https://github.com/izuremenev/eooygs/commit/eb674abdafc718b5fa58690f3716390653ac89ad
+
+新增辽宁电信 IPTV 直播源： https://github.com/floxx123/wrdljd/commit/ef7e940b4cb8ee65942634b8cfaf9ef473608a6b
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/izuremenev/eooygs/commit/390a0dd3be9b3678eb92eb45b8f584dae5e73e05
+
+新增辽宁移动直播源： https://github.com/floxx123/wrdljd/commit/f8be29ffcea7a44cd5f061b7efb2b666ab844f85
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/f46e20138a8d0cb568726b0a554e76075c049b7b
+
+新增广东联通 IPTV 直播源： https://github.com/floxx123/wrdljd/commit/3a18dcee8f33b49fb809292becfd8fda0386ea09
+
+新增四川广电 IPTV 直播源： https://github.com/izuremenev/eooygs/commit/5addf0da918afbf0993738a3b101365b0fa2da80
+
+新增云南电信 IPTV 直播源： https://github.com/floxx123/wrdljd/commit/4a8ea8de2d46abd6e8b320397e2474a907422acf
+
+2026-06-29 更新国内电视台直播源： https://github.com/izuremenev/eooygs/commit/b468cb795c7863d33b5684a989bb6efdb2c1762c
+
+新增福建电信 IPTV 直播
