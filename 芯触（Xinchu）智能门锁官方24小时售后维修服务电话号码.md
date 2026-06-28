@@ -1,0 +1,246 @@
+关键词}全国售后服务电话：𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑(安全认证）
+芯触（Xinchu）智能门锁全国24小时各售后受理客服中心
+芯触（Xinchu）智能门锁各市区24小时售后客服热线：（1）𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑(安全认证） （2）𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑
+芯触（Xinchu）智能门锁全国24小时售后服务维修网点
+7天24小时人工电话𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑客服为您服务、芯触（Xinchu）智能门锁售后服务团队在调度中心的统筹调配下，
+线下专业全国网点及各地区售后人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开透明。
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/3e690c7701e861beefaeef3c82deb71de41d0a9b
+
+江苏电信 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/9476845ec21fd67378d63eca55ce4a158f3caa65
+
+江苏 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/7381385c60558b8f0472a96c91cdc34a164952fc
+
+安徽广电 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/38c99530a6c6745ad400274fe9df7795294a51e4
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/aead2b6ccbe6601d385a5efeb65ede6284b3d97a
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/a99e63698d0883678bac6c430a01db2546ec6ac7
+
+湖北 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/9b6a389269942b4c4567a935bc6d2557bf1d95b7
+
+湖南电信组播直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/e5656309ac4c2e5343b35398dc283cf60d592955
+
+湖南电信 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/413d2fbcdb94bcf8b974b68c34e6925bb76ca767
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/d793d6a4b44959d5e1830811372391c46989923f
+
+湖南联通 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/dd6f6efec931f965dae16a07031d909186470f4c
+
+湖南移动 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/5037205326fb92f9c207018ffdeef821d045ca21
+
+湖南 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/0cd7287151789d246ed3694e8d053f56098b46a9
+
+重庆移动组播直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/67bfca8a25143b8d2b2f0c23cbeba408503eb497
+
+重庆联通组播直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/afe3602b25c0b2a9d380aeda87baa5baefdff05f
+
+重庆联通直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/351f4cc7652e1e98d81dcb6ee1c32d1d856a7dce
+
+重庆电信组播直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/f474548d5e81cf290504866bd4bd48de762dfad6
+
+重庆电信直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/8b52d2695e75e039da66d54e09a4202e25babcef
+
+重庆 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/d74f216fa61b5702c94ec184787af5abdcefd961
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/7965476148d2caf0de60a6b921e0bb559d4a618b
+
+四川电信 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/0a63a36039e3afd467768d1198b6aa4cdab3dbb9
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/857d3efc50d178072c63b8b93fb45623faaedb69
+
+四川广电 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/57c24a01effd7d1d472de0efa6dc6358365cd429
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/cceac0fb9b81c0e4a06ccfc02dce412203142ba6
+
+四川联通 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/395313f3c3329369edea203f5a76bb3f45204224
+
+四川 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/d5ee000bb7621a192639f0eebe0957f857746253
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/9217bb68d944e769a064873b7f75451758b3a381
+
+云南移动 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/ef80d73b0fdfa534fa7bd1f3131d9e63f4e4890b
+
+云南 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/5b0470f9bf0593f41a05de712c13367f78d772ed
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/954ce1c51f835a7bf3378815b6b25f15d6d0467e
+
+贵州移动 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/7779882cb812fe0d5dfcf8fd5ebedf2539fea325
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/fa2eced01724a0cc71f944dd06e5d243f944b9c7
+
+贵州联通 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/7c58488ebd7013ef2007d5acacc204c5372d0b47
+
+贵州 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/4196276620095b58a7c17f378e2bdf272f9b2f25
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/cd2773e5df2174d6bd7acf75ac700785b4fe3068
+
+福建联通 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/21191271b977caa6d356f5e428dc3c59ef227cf8
+
+福建移动 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/ffb753b8ae2bd4c65269880481b8e228f295b2b5
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/ef7ef5bfd8d6d008d5a4d33c957322897822f258
+
+福建电信 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/20ead3334bf16391c2ce71d3761c8f66d52f8fcb
+
+福建 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/c8ec3c6d5dc842c70d668df68952d8ba17c92f10
+
+安徽移动 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/9bcea82cf4a7f1064fa69520ef21d6440ec399f1
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/517fea4d5bd0141ae6f4639ea68088549f6291dc
+
+安徽电信 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/ecec94206bc761f8baa0d167e17bd55ee9e3db2a
+
+安徽联通 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/2e9f8fc438d09347e73ad1473848a8a4c489fb88
+
+安徽 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/d82752c5e2c39cb0b5ca7e539d34009c9e1b2d64
+
+陕西地方台直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/eb2ec4df19a4f12a04ab9e7035d2cea06872b701
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/cc7c6a028faad8dfc8847d3fad80638c4c981d61
+
+陕西电信 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/d70fcccd79bed1ff3b9876ba39f7a07f7113f30a
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/6275c15eb4ca755cc1f8f1305562a7bdc3eeabe0
+
+陕西移动 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/a25dbff101254c12de46933994a2c16b559844de
+
+陕西 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/e4c38c1da8bc0ef34c5a13e3f90c20701c02b074
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/efb25600be5c6322289466b2c8d0227a104bb53b
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/31317d4e0eb468c880a0b08a4120fc007e89fb75
+
+甘肃 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/52afd7ff522600e0502e6bb91a86584445e114f3
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/ebf937e340ec383f2345e26b3914c7820c20547f
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/b4dba7594be415a89d2d5786b33540fa22030f37
+
+山西联通 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/ef5b525e1996ee9aa59b3b96c3a5947ff82dbb91
+
+山西 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/78f2514ce2cf658213333539fbf5c31a990f7f85
+
+天津电信组播直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/c27b4b603cab7e60670d391afcffe8a30705b4df
+
+天津联通组播直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/44b850824815f800b0af3478d91105efa6725deb
+
+天津 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/9c27e30abfe1e358379a18c7df6424593bc13f19
+
+上海移动直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/3d00d96173e11e89bea18d852b248a9f34d71ba0
+
+上海联通组播直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/de048ab1c3c4fe982691c5cfa84371a15064b89b
+
+上海联通直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/ebf5e117d4f2582a9d360e4a4474a6417c9c15af
+
+上海电信组播直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/77d42ef83f55693ae0defd6d96620455462f2fb3
+
+上海电信直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/805d1eec7a8cf789628fa5d01420cd6950958d55
+
+上海 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/e2579c72204292e6a390c3dc26f48a0d239e17dc
+
+北京移动 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/5899e084e3690823934203c7068b5b93bcd06365
+
+北京移动组播直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/0001b21a6795fefab649a696ed8606d054853913
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/04fe606c803dcce9f9c138f390edec75a44d8141
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/2912ff302a4760f7bbe37e3fa17f844a78e72193
+
+北京联通 IPTV 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/48b14b1e51975e5ccf819d7c95c93e88a4304173
+
+北京 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/0722155f970b3126eeab3120b260fb16b38f7b97
+
+部分地区的移动可全网通用： https://github.com/mooreo478570/wdyrxz/commit/08fbab1ffa0c1077c2b1ba29139527e0420bf3e1
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/liamtaylor7025/acgylz/commit/9f0653a731dd4afa2b822abbc3e854ef3b290d54
+
+广播电台下载地址： https://github.com/mooreo478570/wdyrxz/commit/243f6714844588f415f0706e3f8e1b21baeee778
+
+国内景区直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/4793bb899203cc3c23caa083761cf3cd83804ae8
+
+轮播华数黑莓下载地址： https://github.com/mooreo478570/wdyrxz/commit/beb5eac1cdf5102c5c756ccb7ec4544ae4e3e9e3
+
+台湾香港澳门电视台直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/6894f13f872843a1dd5d7b367acd72792a7f5dd6
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/mooreo478570/wdyrxz/commit/26f6be625589be0bb1c3c0841804fca9149a49a7
+
+国外电视台直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/81fd4e421122a3d6fe2a8ab9419f71affd978e55
+
+卫视地方台安徽农大下载地址： https://github.com/mooreo478570/wdyrxz/commit/6a1ed3417f2219c5a7e6e1e9e340dffe03451b38
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/liamtaylor7025/acgylz/commit/821c0dd263b6039d0113dda28c8e234bc2ad6f7f
+
+卫视上海源下载地址： https://github.com/mooreo478570/wdyrxz/commit/be128022d541803f1a2d89691453e3e3ed5bc27c
+
+卫视重庆广电 下载地址： https://github.com/liamtaylor7025/acgylz/commit/c8cefd52c3008188c450067bf908fc7bd57a94d3
+
+卫视百视 TV 下载地址： https://github.com/mooreo478570/wdyrxz/commit/1d697a885b35f893b16bdbad3319af5c8644827a
+
+移动 IPv6 直播源下载地址： https://github.com/liamtaylor7025/acgylz/commit/3bf0986158cd2cdf14c9b3e581882ecd76910301
+
+国内电视台 IPv6 直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/5fab04d6721185bcd664fb1f94713bae9825f244
+
+各大卫视、上千个地方台： https://github.com/liamtaylor7025/acgylz/commit/02d57018d53ce1ae4d219f82cc07a412ffdbf2eb
+
+国内电视台直播源下载地址： https://github.com/mooreo478570/wdyrxz/commit/237de8dde151994812ff1e3ab4038741f3286c37
+
+全国可用直播源： https://github.com/liamtaylor7025/acgylz/commit/83070d33e4360103c2a8468fa9ae9a4c7333df9e
+
+包括完整内容所有已知频道： https://github.com/mooreo478570/wdyrxz/commit/5e3a2e2b9a03617f7bc6a2b7ddafb6b180b9502f
+
+除成人内容以外的已知频道： https://github.com/liamtaylor7025/acgylz/commit/638458c13dd9546b808231f1484f3f073aed78ba
+
+收集来自世界各地公开可用的 IPTV： https://github.com/mooreo478570/wdyrxz/commit/36c862acdcded9a9c8759eb1b76a557e34d7cda3
+
+稳定地址： https://github.com/liamtaylor7025/acgylz/commit/a89cf62ca94f5cfe4bb66246363f227ee6b46a63
+
+2026-06-28 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/mooreo478570/wdyrxz/commit/18331a41ef8ce1b38c9d9824f48a25a3bdebd60b
+
+2026-06-28 更新 IPTV 工具： https://github.com/mooreo478570/wdyrxz/commit/e534d009a69d2a22066ef846fba431e83f6de952
+
+2026-06-28 更新世界各地 IPTV 频道： https://github.com/mooreo478570/wdyrxz/commit/a28a06564ba7325a3155cd01979e5ba5bf785f0a
+
+2026-06-28 更新全国可用直播源： https://github.com/liamtaylor7025/acgylz/commit/20d2320b3393e89d3f82cc2e976499648e73bf66
+
+新增各地运营商的 IPTV 地址： https://github.com/mooreo478570/wdyrxz/commit/b50f077cf1a0d132a7ee281501c645043a4b6f9a
+
+插件推荐： https://github.com/liamtaylor7025/acgylz/commit/eac51dd53cf6123405b4e1a05099093c005e2fee
+
+视频教程增加： https://github.com/mooreo478570/wdyrxz/commit/b60306f5827860a17ce24a04fb2c0d3a803d4a64
+
+咪咕源失效： https://github.com/liamtaylor7025/acgylz/commit/635322c783d1a3304d88e998afb546a2204a5fef
+
+2026-06-28 更新各地运营商 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/66146fce84b2db87cd14d359cbecbfc65af7db59
+
+2026-06-28 更新台湾香港海外直播源： https://github.com/mooreo478570/wdyrxz/commit/50a6b5d1102cc46b75c76e1138f91be4062db3d8
+
+新增辽宁广电直播源： https://github.com/liamtaylor7025/acgylz/commit/5361414745fc5d1226037eba508c873a4907c88d
+
+新增江西广电直播源： https://github.com/mooreo478570/wdyrxz/commit/2c440e827ab263de92b9b65a0670c51d1742e2f8
+
+新增湖北广电直播源： https://github.com/liamtaylor7025/acgylz/commit/37b28efc24398bc5d312863cc55fb3b1461d7836
+
+新增中国广电 cctv + 卫视直播源： https://github.com/mooreo478570/wdyrxz/commit/63665c09a66e90e534acd8bbee80deb37b69cd93
+
+新增辽宁电信 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/a253e4b700c590a70a8eaf62901455c2df106264
+
+2026-06-28 更新台湾香港海外直播源： https://github.com/mooreo478570/wdyrxz/commit/5635c4cac3a609fb73e81d0f83e7677518cb1373
+
+新增辽宁移动直播源： https://github.com/liamtaylor7025/acgylz/commit/02cc6ab66a276b7430305a8d68d5e852418e69ac
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/12012ed6ad00501ecfcbe6336cd97584199842c8
+
+新增广东联通 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/85e3a67104aad528d3b4c18bb0568c032146b115
+
+新增四川广电 IPTV 直播源： https://github.com/mooreo478570/wdyrxz/commit/96644eba0eea7e9d8f65d3d6441aac8b0ad108d6
+
+新增云南电信 IPTV 直播源： https://github.com/liamtaylor7025/acgylz/commit/5099cae67d5e800cd28b597db03a54d560d4b1b9
+
+2026-06-28 更新国内电视台直播源： https://github.com/liamtaylor7025/acgylz/commit/9ecae2da4758da27b7e17872c1845f530f9fbc22
+
+新增福建电信 IPTV 直播
