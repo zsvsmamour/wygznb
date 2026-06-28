@@ -1,0 +1,260 @@
+玻璃狗（BoliDog）智能门锁全国统一售后服务电话𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑
+玻璃狗（BoliDog）智能门锁24小时人工服务上线
+玻璃狗（BoliDog）智能门锁推出全国24小时各售后客服受理中心(更新上线)
+玻璃狗（BoliDog）智能门锁24小时售后服务客服热线：𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑全国24小时人工电话客服为您服务。
+玻璃狗（BoliDog）智能门锁售后维修维修-24小时提供故障维修热线：𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑
+玻璃狗（BoliDog）智能门锁售后服务团队在调度中心的统筹调配下，全国24小时人工电话客服𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑线下专业全国网点及各地区售后人员服务团队等专属服务，
+整个报修流程规范有序，后期同步跟踪查询公开透明。所有售后团队均经过专业培训、持证上岗，
+所用产品配件均为原厂直供，玻璃狗（BoliDog）智能门锁常见故障代码维修指南玻璃狗（BoliDog）智能门锁出现故障时，别急，先看屏幕上的故障代码。
+比如，E10表示元部件问题，E20则是过热保护。根据这些代码，可以按以下步骤操作：重启机器，看是否为偶发故障。
+检查机器供应是否正常，电源是否开启。清理电器周围的杂物，确保通风良好。
+若频繁出现同一故障代码，可能是部件损坏，需联系专业维修人员。记住，非专业人士不要擅自拆修，
+以免造成更大损失。这样简单几步，就能帮你快速应对玻璃狗（BoliDog）智能门锁的常见故障，让温暖不再缺席。
+玻璃狗（BoliDog）智能门锁全国24小时各售后受理客服中心(2026年更新)
+2026年06月28日20时30分18秒(UTC+8)##玻璃狗（BoliDog）智能门锁售后电话玻璃狗（BoliDog）智能门锁售后服务电话𝟒 𝟎 𝟎-𝟏 𝟎 𝟎-𝟑 𝟐 𝟐 𝟑专业维修玻璃狗（BoliDog）智能门锁机器失灵，
+开机显示错误代码，不通电，开机不启动，自动跳闸、效果不好、清洗、消毒、维护保养、安装、拆装移机等服务。
+玻璃狗（BoliDog）智能门锁售后维修全国服务区域： 北京市（东城区、西城区、崇文区、宣武区、朝阳区、丰台区、石景山区、海淀区、门头沟区昌平区、大兴区）
+天津市，无锡市、镇江市、扬州市、嘉兴市、常州市、泰州市、昆山市、句容市、张家港市、西安市、温州市、济南市、长春市
+上海市，（黄浦区、徐汇区、长宁区、静安区、普陀区、虹口区、杨浦区、浦东新区、闵行区、宝山区、嘉定区、金山区、松江区、青浦区、奉贤区和崇明区。）
+重庆市，（大渡口区、江北区、沙坪坝区、九龙坡区、南岸区、北碚区、渝北区、巴南区、江津区、渝中区、和两江新区、重庆高新区。）武汉市，（江岸区、江汉区、硚口区、汉阳区、武昌区、青山区、洪山区、蔡甸区、江夏区、黄陂区、新洲区、东西湖区、汉南区）成都市，（锦江区、青羊区、金牛区、武侯区、成华区、龙泉驿区、青白江区、新都区、温江区、双流区、郫都区、新津区）南京市，（玄武区、秦淮区、建邺区、鼓楼区、浦口区、栖霞区、雨花台区、江宁区、区、溧水区、高淳区。）杭州市，（滨江区、萧山区、余杭区、临安区、富阳区、上城区、下城区、西湖区。）无锡市，（锡山区、惠山区、滨湖区、梁溪区、新吴区；江阴市、宜兴市。）长沙市，（芙蓉区、天心区、岳麓区、开福区、雨花区、望城区。）宁波市，（海曙区、江北区、镇海区、北仑区、鄞州区、）苏州市（吴中区、相城区、姑苏区（原平江区、沧浪区、金阊区）、工业园区、高新区（虎丘区）、吴江区，原吴江市）合肥市，（蜀山区、包河区、庐阳区、瑶海区、政务区、经济技术开发区、高新区、滨湖新区、新站区、长丰县、肥东县、肥西县，巢湖市。）
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/e3ceea35a84c3b2025f15e78f41f2b319afc7fbb
+
+江苏电信 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/58180a5811bc92b76b94c5258168d9153dd7872b
+
+江苏 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/4b8f1707f6e357381da780b17f545158560ad610
+
+安徽广电 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/eed0e2a2251dd7f41b7aae9bf8ff7fc951937648
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/cc45d362500930f3f7eefd4f788a4eff67ac666f
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/04a08752938e1f65e3cb312fb4c769437192185c
+
+湖北 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/58be09d35283bcf4d2a2b5a1af9f6e8f2449be83
+
+湖南电信组播直播源下载地址： https://github.com/skilllarch/acuegl/commit/cff225c3aa677651d06ebcb878306532c1432319
+
+湖南电信 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/d96ef3f0b2d99cb44aa59865bdce1a1de03bb475
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/df127699c89d229feeef3d895def88c2f8c08d27
+
+湖南联通 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/9af666ad8cb83334495585cc16c545b731f7cbe6
+
+湖南移动 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/99bb5a82b6f1f338cfd1a30fe30c69ee6fafa770
+
+湖南 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/560f582ed84178ece94d1ca4a0260be659819f07
+
+重庆移动组播直播源下载地址： https://github.com/skilllarch/acuegl/commit/468bbf82f9e85776d262084dd182715cb3331647
+
+重庆联通组播直播源下载地址： https://github.com/bindley/rmfyjo/commit/c25a411fd723e527b9efa36bb29180dc142caa09
+
+重庆联通直播源下载地址： https://github.com/skilllarch/acuegl/commit/a4e4a57326ff89d363ed72c7ce5cc99214b06810
+
+重庆电信组播直播源下载地址： https://github.com/bindley/rmfyjo/commit/6e3be449a756e449defa68a30be034b4b4c8cfbb
+
+重庆电信直播源下载地址： https://github.com/skilllarch/acuegl/commit/6775f0f2f8491902018e9fbb145b7735d28a220d
+
+重庆 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/24fb9175c75dec8dc283a827af47b157fb1565cb
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/38766a69da6453e6fdd7a259b802b14820ad4a48
+
+四川电信 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/dc89058195c0aa11efd3c884ad13dcd1f8aa6f03
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/skilllarch/acuegl/commit/1d568c8612b548445edf1137257a4c502cded54b
+
+四川广电 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/1f7bddeb1b6c6b44d546d1c0697d780b539651c0
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/bf3c23ef25139f4a08a714f7e9509382c540965c
+
+四川联通 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/b324b9d9755e747cc5ebeaa750d3379a8d16e6a0
+
+四川 IPTV 直播源： https://github.com/skilllarch/acuegl/commit/a2710e9024df770d39f5ce7b2f969efb1fd878c4
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/7ff6e45b8c42d2b4f1060666d01599e9e3cfac64
+
+云南移动 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/bed4248d67f0108f356738065d8e645f7c7ccbd2
+
+云南 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/7ca5baf3baf46bb103ad0d141d7d3163944e3e77
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/9af0f7b2ceb7c4d691d46fb0f9a8e8549f3ad2f9
+
+贵州移动 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/6d9db0803e83b8d53b3d930188ef9d25f28806fa
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/6c62e83f67e4d83ff3f13d64ba099b30b83e1ced
+
+贵州联通 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/1aa8b592e6b3b47918169bbac7ace53c1679e22a
+
+贵州 IPTV 直播源： https://github.com/skilllarch/acuegl/commit/6205536f1b638cf13113cfde44a4c65dfd7f227c
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/5177e4c0ece8a39edab547dc7b8c77a1fda345d3
+
+福建联通 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/03d9a6870b4ab12270411d4a045dd73c73675a6e
+
+福建移动 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/224b1482f3305696489744e9cf0b5ff67b3be795
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/734a51ba09d719d47b32a1e6d032a41413e2dbaa
+
+福建电信 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/45fdaa62e88378ae3108e0bc461f04f5b8988068
+
+福建 IPTV 直播源： https://github.com/skilllarch/acuegl/commit/4e5e0e433a73d1d2d45ff0c5ce03c84a01af3f5d
+
+安徽移动 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/63eee59bebbd19f91d023be1470a80548436df9a
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/skilllarch/acuegl/commit/898949131390b06c748da2a9c16d9234df1897fe
+
+安徽电信 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/bf8e81accd5b6d429071a28ddc26bdff1883da4a
+
+安徽联通 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/7cdbfd8ea7a67d3ddc07c6a02b69fb5156d0fc7a
+
+安徽 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/f799b2437c67104b0098013adb1d6c087cd35bd2
+
+陕西地方台直播源下载地址： https://github.com/skilllarch/acuegl/commit/994f5fca69e533c38222f96aba12afc7780f390a
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/f46f55eef5262bd00d1cea1ca43f64da76e4f552
+
+陕西电信 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/812ad45507718d00b2a87b81b79b216d48953903
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/84013e8983289b5e989e542a644e64db4745e2c8
+
+陕西移动 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/782e62e9dd90b014c433342696e334bb2b54f6c1
+
+陕西 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/69aa0f2d84b3dc29b602a58755f62251696f4753
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/f3c9b3ba615213846c30064763689d53c2d11e4c
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/86b756aefd326222e020dbef858909fc4e5ba2ed
+
+甘肃 IPTV 直播源： https://github.com/skilllarch/acuegl/commit/902cd97128bb36f54b7bce2e4dd9683b59d724bb
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/e3f18eee4126234bd6efb4a42d07fea41136fdef
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/13c75172a092ae3f1934ca53c0250fda1b1c7096
+
+山西联通 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/3d5e87ff5c149c2dffcd6f69e7424cca75bdfc89
+
+山西 IPTV 直播源： https://github.com/skilllarch/acuegl/commit/6b6e324d99141eaddb5402301a42c37778dd0bd7
+
+天津电信组播直播源下载地址： https://github.com/bindley/rmfyjo/commit/265c2062bd7285c9ecf9ff246723d5deb8ceb610
+
+天津联通组播直播源下载地址： https://github.com/skilllarch/acuegl/commit/1b6190e0df825891ebfe812c26dadffc38075063
+
+天津 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/cea7f9975717b8eccc77655dc2743b90090cd6c1
+
+上海移动直播源下载地址： https://github.com/skilllarch/acuegl/commit/ce0fefa2ade4267ef0763487df002340ff16ab7f
+
+上海联通组播直播源下载地址： https://github.com/bindley/rmfyjo/commit/d03482ca83bf3e9fd0f1a9dd0cfe15e90552064d
+
+上海联通直播源下载地址： https://github.com/skilllarch/acuegl/commit/ab09e32b39c0bf3c0f344700815b24bca5d756ca
+
+上海电信组播直播源下载地址： https://github.com/bindley/rmfyjo/commit/39e5fea1192c89e53a30ed304639a58f5aef9538
+
+上海电信直播源下载地址： https://github.com/skilllarch/acuegl/commit/b1a6b5192b0e563490a3a86d203746033041b4e7
+
+上海 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/eacf98fd7cca414764356a73f8772a4f9de0b41c
+
+北京移动 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/ef9b85db86d1e985ba09c496a08da8dd7e9aa999
+
+北京移动组播直播源下载地址： https://github.com/bindley/rmfyjo/commit/f977ffb92acb769f475742219e088e624bf56a84
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/36acf6520135854c10aace7e12b108db2fbf0246
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/bindley/rmfyjo/commit/581bd6892e00db92bfc8355fdb89161b76f8f11a
+
+北京联通 IPTV 直播源下载地址： https://github.com/skilllarch/acuegl/commit/7294516f1c8ec5ff1a6e70741ff09936b1c9a09c
+
+北京 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/937c8d207c4cb830988ebbe79d01c8efef0020f6
+
+部分地区的移动可全网通用： https://github.com/skilllarch/acuegl/commit/47e135e54dd0b2a353dbf8af5ca813d8877343a7
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/bindley/rmfyjo/commit/823d20861d76c7379607aaafc9a31362cb223f89
+
+广播电台下载地址： https://github.com/skilllarch/acuegl/commit/26816420bced32535065a44ae5eecab9c32c479f
+
+国内景区直播源下载地址： https://github.com/bindley/rmfyjo/commit/449dad8c5522a2c79201919e1f03e49935a2c1ab
+
+轮播华数黑莓下载地址： https://github.com/skilllarch/acuegl/commit/3dada43d10099ad4d1ad6d983d4f19f4e9119b57
+
+台湾香港澳门电视台直播源下载地址： https://github.com/bindley/rmfyjo/commit/77f218bb300469ee0280507f05a239c12a60354c
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/skilllarch/acuegl/commit/1847c07b7a08b38f2b48e447016a1f8270934a36
+
+国外电视台直播源下载地址： https://github.com/bindley/rmfyjo/commit/0bf67b7e94afbf2d60cacf72a2b7a4986618a6f4
+
+卫视地方台安徽农大下载地址： https://github.com/bindley/rmfyjo/commit/12a79a993b0173e96aa450612d6aaa9fac3805f0
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/skilllarch/acuegl/commit/1e05b27230834dd0a0ab2895d84bac9df0ab8773
+
+卫视上海源下载地址： https://github.com/bindley/rmfyjo/commit/6f0b5deb4a1c94bf47ccd2703c74228b24d8757f
+
+卫视重庆广电 下载地址： https://github.com/skilllarch/acuegl/commit/cdfbc5e9051a27c6c2de2c981d7a0d1c70ab13e4
+
+卫视百视 TV 下载地址： https://github.com/bindley/rmfyjo/commit/eb46be4d3b43313973b4e918aa1f50dc3187285e
+
+移动 IPv6 直播源下载地址： https://github.com/skilllarch/acuegl/commit/ad4fea71894e82dba3e83887904de14690910e33
+
+国内电视台 IPv6 直播源下载地址： https://github.com/bindley/rmfyjo/commit/e047c0450095579dddbeec35dd530878c0ada2e8
+
+各大卫视、上千个地方台： https://github.com/skilllarch/acuegl/commit/39b2f8867b3776dc4f5d12ac9fea6cf78d01fb78
+
+国内电视台直播源下载地址： https://github.com/bindley/rmfyjo/commit/5b95f120b653cd7085666460571fd8eba3be5a63
+
+全国可用直播源： https://github.com/skilllarch/acuegl/commit/626d4fbd4f4e6a32b7a89a4eba1ed4636dc056e5
+
+包括完整内容所有已知频道： https://github.com/bindley/rmfyjo/commit/7e213ffb730fa88c140342f83f6b11cae23e2143
+
+除成人内容以外的已知频道： https://github.com/skilllarch/acuegl/commit/3670ad6b1daf69917c989047b2c758c3d03b7da8
+
+收集来自世界各地公开可用的 IPTV： https://github.com/bindley/rmfyjo/commit/2dd6f42ee8019fa5ac8416bcec0dfc4ca19577d9
+
+稳定地址： https://github.com/skilllarch/acuegl/commit/a9eff1e5d13b887bc524c5f438823c64f71a54b9
+
+2026-06-28 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/bindley/rmfyjo/commit/336e6411d497b33658b134b46ffb26ed660fcf28
+
+2026-06-28 更新 IPTV 工具： https://github.com/skilllarch/acuegl/commit/e5b38386e7fdb0ef68b845443502c2282893abc4
+
+2026-06-28 更新世界各地 IPTV 频道： https://github.com/bindley/rmfyjo/commit/300cfd62d32d28392962e701c774419c34ce4c63
+
+2026-06-28 更新全国可用直播源： https://github.com/skilllarch/acuegl/commit/d5055040ffdeb990b94da2cf27636bb7a5ca778b
+
+新增各地运营商的 IPTV 地址： https://github.com/bindley/rmfyjo/commit/7bff0d99c080d230746f93beed00d3e4f46a29d4
+
+插件推荐： https://github.com/skilllarch/acuegl/commit/9ca63084c46938a2efc3d1175856f620dcf6802c
+
+视频教程增加： https://github.com/bindley/rmfyjo/commit/4a88ff6ddad75fb7bc032baeb9e1796103d8b020
+
+咪咕源失效： https://github.com/skilllarch/acuegl/commit/61521d8dd5379b7d057c669a01631e2a6f57c7d0
+
+2026-06-28 更新各地运营商 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/87310ca91994094d8292faa916b1f258fa3e9df3
+
+2026-06-28 更新台湾香港海外直播源： https://github.com/skilllarch/acuegl/commit/bb3e0425b578056d202af0d2f73c17b9e33f1d17
+
+新增辽宁广电直播源： https://github.com/bindley/rmfyjo/commit/691c1c98592a3fa69cd824565544005d058ac5d6
+
+新增江西广电直播源： https://github.com/skilllarch/acuegl/commit/077bb774612c2ed1003f6e632c6cc32e71606d79
+
+新增湖北广电直播源： https://github.com/bindley/rmfyjo/commit/0e1c1297617f3916903608e06fdad3f319d681bc
+
+新增中国广电 cctv + 卫视直播源： https://github.com/skilllarch/acuegl/commit/531cec8158d1127fcb62cb6a2dcfa0db2ed4415c
+
+新增辽宁电信 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/0197e079123b688eebbc5f4ac89d3b57cf8ed93b
+
+2026-06-28 更新台湾香港海外直播源： https://github.com/skilllarch/acuegl/commit/b0c9ec80ee5837eb921f1e4ca3c90065314e585b
+
+新增辽宁移动直播源： https://github.com/bindley/rmfyjo/commit/7d831c9489575be6b5469e60df3baa3d8a684714
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/skilllarch/acuegl/commit/28308a1f66e55f0eb59f9b23be86f4a448a79ba1
+
+新增广东联通 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/a6401a8b76075a7c78434bd46ab5d3d40f869d43
+
+新增四川广电 IPTV 直播源： https://github.com/skilllarch/acuegl/commit/79ceb4f7ff8eeecd44a1d343e08b672237308324
+
+新增云南电信 IPTV 直播源： https://github.com/bindley/rmfyjo/commit/874286d42160b2cc79debb482b6a10bde26cc895
+
+2026-06-28 更新国内电视台直播源： https://github.com/skilllarch/acuegl/commit/a49c1236db9c53e58b55e31ced8da9cb8d32b590
+
+新增福建电信 IPTV 直播
