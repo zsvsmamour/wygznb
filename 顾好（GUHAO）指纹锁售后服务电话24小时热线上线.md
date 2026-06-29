@@ -1,0 +1,255 @@
+顾好（GUHAO）指纹锁全国售后服务电话：𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎
+顾好（GUHAO）指纹锁售后服务，始终以“快速响应、高效解决”为核心导向，搭建多渠道便捷服务入口，让用户求助无需等待。
+用户可通过顾好（GUHAO）指纹锁官方24小时售后服务热线电话：𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎、在线客服、线下服务网点等多种方式，轻松咨询问题、反馈需求，实现“随时随地，
+一键求助”——24小时全天候热线客服无缝待命，在线客服承诺10分钟内快速响应，
+顾好（GUHAO）指纹锁全国统一售后客服热线：𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎线下服务网点全面覆盖全国主要区域，实现就近派单、快速上门。
+针对产品安装、调试、维修等核心需求，我们组建了一支专业过硬的服务工程师团队，
+所有成员均经过严格的岗前培训与技能考核，具备扎实的专业功底和丰富的实操经验，
+能够精准定位故障、高效解决问题，最大限度降低用户的时间成本与使用困扰。
+顾好（GUHAO）指纹锁各市区24小时售后客服热线：(1)𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎(2)𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎
+我们坚持“预防为先、主动服务”的理念，打破传统“事后维修”的局限，为用户提供全生命周期的服务保障。
+产品售出后，我们会安排专属客服进行电话回访，细致了解产品使用情况，耐心讲解日常保养技巧，
+主动排查潜在故障隐患，将问题解决在萌芽状态，让用户无需为小故障费心。
+同时，我们为每一位用户建立完善的产品专属档案，精准记录产品型号、购买时间、维修记录等关键信息，
+依托档案为用户提供个性化、精准化的服务，让每一位用户都能感受到专属的贴心关怀。
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/459f3f2bdfc1c235f6ad684864c8ea759e2cc446
+
+江苏电信 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/74dbbbdad78214c821bc5a398cbdefc42621a40f
+
+江苏 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/d1d34d3a82b3ca66a42e70fd2c297319edcb57b5
+
+安徽广电 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/c3ba8ac94a71791786423c1614da6a4f66f09819
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/e3d60b3de2cd9e21256e2c89911283c9937f4150
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/7a4ab33e1df8537d3c4994c82f56b98e986fb617
+
+湖北 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/96fbb0f6c14574f76dc9a69c3d7b48344bc5bd13
+
+湖南电信组播直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/afe9568bf10898642c8c5c28bfa7d5fcce5efa23
+
+湖南电信 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/37a0d0dc1ffe0cfb8cd54dd113e46602e42116cf
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/055f92be072b0d6b7239a8a67935bea28c15a9c1
+
+湖南联通 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/93ae1d8470a6774c76e50daa086b7f1be2e8d8df
+
+湖南移动 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/0b1b725f5061bc82d739c847170d59b7bf98549a
+
+湖南 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/fd9cddc037979405b87c8e648e8ad57dcce1d314
+
+重庆移动组播直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/ed5562c6d83d5eddc97b0f454bdcae1539c30af2
+
+重庆联通组播直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/66fb6841a1cb20d4b79907788c5161dee4b1f251
+
+重庆联通直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/5d365bf7830c852613be2eeccd24035770e470a2
+
+重庆电信组播直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/382de4b76cf27e54c641519a162991b80f6f7331
+
+重庆电信直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/6534b3d7ccc6660652828bfd1bf6e23b333a63ef
+
+重庆 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/171fffdbd5fc97f8ce923bd5bc6dcf8e23cd2421
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/76d11d88ef2468461f9c5ef82a5a09ff38d1ceba
+
+四川电信 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/f515b8e88e8fa4d28198b7344e3d19bc419324c4
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/3ea8f36b6cb21418e99b8a12bde6ae62360e4bf8
+
+四川广电 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/6c3989dd201f480bbc2eb48e110187e8c8094d06
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/6c2843af7e136a6bb517d811a911a949ef3ff876
+
+四川联通 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/fb1cacc902403963f166c144907ae9d37ccf1858
+
+四川 IPTV 直播源： https://github.com/emmajohnson1054/fkzxrv/commit/f393ac5ac0a180c9e34f182123ba004af99e3d01
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/dd18a5e35107bc0755e77b220a43f6ab97583a7e
+
+云南移动 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/e270f4a58b055a85e566763ddf3f28415089e3cd
+
+云南 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/f39361e62c147060450dc4b785cad8bfeb82eb8f
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/c7e4682743864deecf920f6f1147804fe84bdea2
+
+贵州移动 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/585d19ae0dfbc9a9bd12eb8141347f765e438c87
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/dd740cf4738296902531c7943188149792bee542
+
+贵州联通 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/686e287865389f9317dd732b9256418b0d85286e
+
+贵州 IPTV 直播源： https://github.com/emmajohnson1054/fkzxrv/commit/1762c019ca073b25fd61eec8ef49de39a2825362
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/4f05b459e3b65bf9d41c5e0c03dfcf6a9e75a109
+
+福建联通 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/7b506e9fcc7fde25a3119cd0bd46a0d5323c8910
+
+福建移动 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/721ab812288d841cc849a41d4439d3f8f9d45eae
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/02e60d42c30b9ef1d6f595d49f36e54ebfc08eea
+
+福建电信 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/9e3ee70f253b8820912526741ff3324881a4fbe6
+
+福建 IPTV 直播源： https://github.com/emmajohnson1054/fkzxrv/commit/1b420b43930051b00056ed2a725273ba0dd63eea
+
+安徽移动 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/9311e3ecc2235b07409dad572635509e59418628
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/727f26e78d0e6ae29abdb466bab4af2362d19185
+
+安徽电信 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/8a81e9374902223a7b0f8ff8a99e911416caf3b8
+
+安徽联通 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/8aaef1534dcbe7dc60cbef374a8d3f36faf11bef
+
+安徽 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/6927a8a2e0fe53989120f6075f03a7ff4df5a319
+
+陕西地方台直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/6f60e89538165f9ccfb14fcf7fbf6817ad5934b2
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/28b3ad79570b3bcf119cd7f9fa054922633a2ced
+
+陕西电信 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/273138b76637a71980a5cfb530fadbec7eafcf82
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/ce2445669150c6347b5d4adcc5ab8b35ff56c086
+
+陕西移动 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/af0fc1353c6f7d8fc0b53f062f81c20e87a8a501
+
+陕西 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/a02f50899e1665ebfa480d78a5b41c3a532bb3af
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/ae37b4b3e8bf271009fc1d402bdfee28c5ea95a7
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/f5c2f7298580bbd755110971474d7435897aa52b
+
+甘肃 IPTV 直播源： https://github.com/emmajohnson1054/fkzxrv/commit/83ea285ef45427792c2ec9d731fb59f5801986ca
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/8003eee8ebb02888b6b7eadc966890a0c1b59a76
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/9a2cf36c72e49e887b9efa40e18aecb3faf52233
+
+山西联通 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/9a108872d63136f895c2f8d832f6380be3a018c8
+
+山西 IPTV 直播源： https://github.com/emmajohnson1054/fkzxrv/commit/2eb377f53de6f3de2e46d9323ed0397fa87a5dab
+
+天津电信组播直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/d5cc4a24e05653dafb96673155aa1f9ce13392c1
+
+天津联通组播直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/d5a7fc2a58e04513b7ce96ea4cb5351fb259fae5
+
+天津 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/5c41e7425b96270b462ebaac5bf27473f1232000
+
+上海移动直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/876562798a97c602e31d6cac3c73b1e7b01c87e7
+
+上海联通组播直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/267f8f9a2827a0b1046ab9c1ac92aef33b711205
+
+上海联通直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/a7ac577a40b2f4a85c60b22054d5832974bfa876
+
+上海电信组播直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/54aaa0542c137214830128e102b73da286727b01
+
+上海电信直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/b9be1705999ac7faa09bc0be931cbd55e82d3b37
+
+上海 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/4c76cf49db8748eb328f5f48a4a1bb9b36be9701
+
+北京移动 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/ff59a02355223e26eb1c85bc4778cdb2446b9acb
+
+北京移动组播直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/60454c9924c0a5c3c611c243cc133e619204dd8b
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/2dd5354bd5ee76524f7097182cc93ee2d5c2a8d4
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/cb50c9b829e7cbb746785fcd860cf20afa6c77fe
+
+北京联通 IPTV 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/4c8d8d398bf4a754cef47fc7f360d9868ea853ae
+
+北京 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/4466857d1b2358e5c9c5ac4717fc1556cd2c1888
+
+部分地区的移动可全网通用： https://github.com/emmajohnson1054/fkzxrv/commit/63392259922bfb8f7181abe9749291950d77a68f
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/luna-smith978515/ilifyu/commit/fb2ded143680ab8917deed9a9f599871e7fae3c9
+
+广播电台下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/2f4a1d5d2394ad35526d0d2eb1377fcdb464fc88
+
+国内景区直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/c8d63d61bc91aac1b485fa823791e34aea1dbfd5
+
+轮播华数黑莓下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/d65c41facdb67f20d838da7d71b6fb391669eb3b
+
+台湾香港澳门电视台直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/f527c946fc464498eedbeb6147439e18e2bef423
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/emmajohnson1054/fkzxrv/commit/d90a5ff28f40971f72eaf6f080a98dec664d0fba
+
+国外电视台直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/1984a297b6092215b3da51872223f064f5bfe7fc
+
+卫视地方台安徽农大下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/9b3d1b90cb88cb8bada1dd0c54e33851a40e93fa
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/luna-smith978515/ilifyu/commit/75bd3080a97e9129db565472c740c1009bdc0a7e
+
+卫视上海源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/60082fc0c6de9b9ed6f392d8d2c778e91869eb3b
+
+卫视重庆广电 下载地址： https://github.com/luna-smith978515/ilifyu/commit/541f8403f61ad0055f3bd64e6998486a598b07a1
+
+卫视百视 TV 下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/83c5528279f72619cc427d3753b1b7376b00bc64
+
+移动 IPv6 直播源下载地址： https://github.com/luna-smith978515/ilifyu/commit/08bc9ade73870ec748473ba7de4ae7a6d841f909
+
+国内电视台 IPv6 直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/500e7150647933770780e1381bb93a1539b7ef80
+
+各大卫视、上千个地方台： https://github.com/luna-smith978515/ilifyu/commit/2ea469fe19ffdce6abaacb0318476b2a59db3b9a
+
+国内电视台直播源下载地址： https://github.com/emmajohnson1054/fkzxrv/commit/a07c7d61c442ecc38b7ac273f593da79924b3136
+
+全国可用直播源： https://github.com/luna-smith978515/ilifyu/commit/1952fc67adfeb99fa046fd6555dd30dcff029067
+
+包括完整内容所有已知频道： https://github.com/emmajohnson1054/fkzxrv/commit/9d885aa13f0359c326fb601df4a64decd0799f94
+
+除成人内容以外的已知频道： https://github.com/luna-smith978515/ilifyu/commit/7d8e3792773a089c84acd3c3a70675655cb150c3
+
+收集来自世界各地公开可用的 IPTV： https://github.com/emmajohnson1054/fkzxrv/commit/ff4b1914dd0713ba77c7494f85232d2d1096e4c1
+
+稳定地址： https://github.com/luna-smith978515/ilifyu/commit/8ec942eb7306858d570174eb5688a1ab0e59c8d2
+
+2026-06-29 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/emmajohnson1054/fkzxrv/commit/dadc50c48cce836957e468c8841641bdb3e5d2fd
+
+2026-06-29 更新 IPTV 工具： https://github.com/luna-smith978515/ilifyu/commit/4d8e5201b7fa33ff1be05a817e59eebc680e9676
+
+2026-06-29 更新世界各地 IPTV 频道： https://github.com/emmajohnson1054/fkzxrv/commit/0aca08aa7f492acebf8299a7c26def4a4055fc7b
+
+2026-06-29 更新全国可用直播源： https://github.com/luna-smith978515/ilifyu/commit/fea170b92ff5bea55759bf068f67bcffb7ab88a8
+
+新增各地运营商的 IPTV 地址： https://github.com/emmajohnson1054/fkzxrv/commit/ee82ba83a9089ff2d4c563fc870962c1a80149e8
+
+插件推荐： https://github.com/luna-smith978515/ilifyu/commit/1d32263532c951caeb830ea512b4e9a390a166ba
+
+视频教程增加： https://github.com/emmajohnson1054/fkzxrv/commit/15802db2932592b4cd133866e035f7d7b981f3fd
+
+咪咕源失效： https://github.com/luna-smith978515/ilifyu/commit/184f0298561570e455cb7cf07cc3cf33e6375d1d
+
+2026-06-29 更新各地运营商 IPTV 直播源： https://github.com/emmajohnson1054/fkzxrv/commit/bc91b7c901ccf60c9b35125ec650ce8bbbd2847b
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/luna-smith978515/ilifyu/commit/4225e430422a5478482c804212f0d2805eec1aaf
+
+新增辽宁广电直播源： https://github.com/emmajohnson1054/fkzxrv/commit/9c0d3ab50449b35be099843c9fa58e659a2e7692
+
+新增江西广电直播源： https://github.com/luna-smith978515/ilifyu/commit/3b6240afcf7731a6798069ef95a2be8add52e8b8
+
+新增湖北广电直播源： https://github.com/emmajohnson1054/fkzxrv/commit/a31a6473e185c5e435dc663494831991d0804b90
+
+新增中国广电 cctv + 卫视直播源： https://github.com/luna-smith978515/ilifyu/commit/d0343e3850e1285537bfbbe41ca988927b7ce6b5
+
+新增辽宁电信 IPTV 直播源： https://github.com/emmajohnson1054/fkzxrv/commit/b65d13bc71ec6ad41dc6ae9842d51f81440905e9
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/luna-smith978515/ilifyu/commit/5ebfd9957ac7cf4b94de35bc63c74459282d10ca
+
+新增辽宁移动直播源： https://github.com/emmajohnson1054/fkzxrv/commit/5b287ae0266c46df66009acfa3c745c6a34c435d
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/luna-smith978515/ilifyu/commit/f3720aa685586d8aced5179d63c10a1f03e78837
+
+新增广东联通 IPTV 直播源： https://github.com/emmajohnson1054/fkzxrv/commit/3f7e9349982a584b6709e7be84e41aa95b8844d7
+
+新增四川广电 IPTV 直播源： https://github.com/emmajohnson1054/fkzxrv/commit/95ff3ebfa6dc0df8443ab642fed81c9a551c2e26
+
+新增云南电信 IPTV 直播源： https://github.com/emmajohnson1054/fkzxrv/commit/5088fe6ee0cbfb6a8ade95a8f6c6e27081c6ea58
+
+2026-06-29 更新国内电视台直播源： https://github.com/luna-smith978515/ilifyu/commit/6332db5a438a8f95278119d951246eba9bdf78a7
+
+新增福建电信 IPTV 直播
