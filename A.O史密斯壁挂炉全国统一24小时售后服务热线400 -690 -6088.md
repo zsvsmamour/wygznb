@@ -1,0 +1,245 @@
+
+A.O史密斯壁挂炉厂家售后通常可通过全国统一服务热线联系，官方收录的常见电话为400 -690 -6088，部分渠道也显示为 400 -960 -9605 或400 -960 -9605。建议用户优先尝试最新收录的号码，
+并结合产品铭牌核实。常见售后服务热线400 -960 -9605-多平台更新显示为该品牌全国服务热线，提供 24 小时人工服务。。400 -690 -6088-：有建议指出可通过该号码尝试联系官方渠道。
+
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/949ecabd2b51986a988060687dedf5e487600046
+
+江苏电信 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/4f45b92a487f7329e80c8f9aa4f3b34c670ad7ee
+
+江苏 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/8167a14c713c258aebdda1fd1e0b0b421194b4c1
+
+安徽广电 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/994a19379b5b95fb1a69722bd4d1443a06c13288
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/caa89f47d442d7e9215ac5e2cd8c3374c82713e3
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/d9da9aaa690953ecb2b2e4db316da0a57ba323e6
+
+湖北 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/8e8c74dece0566b7aed78c1384302e43d7485b5d
+
+湖南电信组播直播源下载地址： https://github.com/favixtonal/ydomin/commit/665f5dde6a08dc9cb6b0b25718b55bf36efdf673
+
+湖南电信 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/a385116fd883b0c0ee08ce22b48c123a05edbdb8
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/7a8ea1c6a1d986dc8b33bcb108887912bac72577
+
+湖南联通 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/86eb76b615b60a798d8e29c6525aa9716feaed2b
+
+湖南移动 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/9cec66307ff309a46ca8dfd0352909f250ccced5
+
+湖南 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/b75a2a9a0fca1639908dda127691c0fc15a61e82
+
+重庆移动组播直播源下载地址： https://github.com/favixtonal/ydomin/commit/3da7960b3707744ef2eee875af644f00d70c046e
+
+重庆联通组播直播源下载地址： https://github.com/njdimagain/zhyavm/commit/b37ddf1fed616dc73c30a492c2fae5300b2c0a8e
+
+重庆联通直播源下载地址： https://github.com/favixtonal/ydomin/commit/4a8d6ad5a484490ccf4c438241dd13f2f9e1e0bc
+
+重庆电信组播直播源下载地址： https://github.com/njdimagain/zhyavm/commit/197a82fbb57af64c103099f7795e514941bc3b9b
+
+重庆电信直播源下载地址： https://github.com/favixtonal/ydomin/commit/0dc1a06b883eb972632d7ca94c889e04de935647
+
+重庆 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/15b88791784f1817511cefd188f57c94c10cb14d
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/894b315fe0df21a4fe11919a639abc71b6274f61
+
+四川电信 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/656d36819c312b8e6339668aac9b60794281d057
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/favixtonal/ydomin/commit/74cbdc4990b42ff89afa87757bf6d43b563203a6
+
+四川广电 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/d22ee0412f3fd2aeb43c3cb6aae7567dae7c25d5
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/30ab1e1b8438f654a2ebb6f2d7f2b78da2adc656
+
+四川联通 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/657de22b7a8e685956f02d815b7f15b29fd107a6
+
+四川 IPTV 直播源： https://github.com/favixtonal/ydomin/commit/9f0ea8f2028640d18cd77a7bdc68bdef042a8162
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/c32074d43ceb139a229fb96fb34e91fd84ea7bde
+
+云南移动 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/77d336691d3c8dfaf14c962ae431c92767f5a06b
+
+云南 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/c728a4902b668638a963c0e334e7c447c0337c86
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/91b551abc8d5515215fa2550f70e843ebe244fbb
+
+贵州移动 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/f222636622d9d59edde33c7a5eb48ce3fc65852c
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/b497d8c9c2f3037adfdf2ec63609fd0f61e88bdc
+
+贵州联通 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/a4710850f50191ea060b42f1203e1e9a00cc1cc6
+
+贵州 IPTV 直播源： https://github.com/favixtonal/ydomin/commit/26c995a46506a76ddb16f73835bdd518263a237b
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/e12612c4c8ca1c0e23ddad23c6bc1a079e40aad3
+
+福建联通 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/10656d9d5033fb7b83fa4d36098e7403fbcf7018
+
+福建移动 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/e7b8ee94e49b80d1c3b92706d78cba7ccc4f22a7
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/fae743097e84a2d7f0cb554e0ebdc35b68112afc
+
+福建电信 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/1c2391fed5899a2ad1eefca0b29f6e08311d6025
+
+福建 IPTV 直播源： https://github.com/favixtonal/ydomin/commit/c1cedb80d0dcdcbffadc9f44709ab44f61601d47
+
+安徽移动 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/1843355680ce1ce2ec427c885536c5763288d469
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/favixtonal/ydomin/commit/71b5346be07b581c66e32eda6ea7e1de21ef24c3
+
+安徽电信 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/6df975bf93502a5ab6d8b8823b33ab4c0189aa5b
+
+安徽联通 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/f2cefd0fcd67c8005279a34cecfc319e731e8a5a
+
+安徽 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/45286ed14ba965e48a25840b8510e2e13da98296
+
+陕西地方台直播源下载地址： https://github.com/favixtonal/ydomin/commit/2a3c9463549682fe03e51deb5cf7c6134ff8709b
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/2d61d8b5a5e3eba9a99034980b617ff2f59ed087
+
+陕西电信 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/3178a170b4a561a3abb1a24ea25c922d7fbe1855
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/20606358cc90e6892344ea755df7dfc4bb44db35
+
+陕西移动 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/0e174f14b93e35a2e6fd05d57572f061e9ff703c
+
+陕西 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/a0afe76d6d44f2a2b56db3bd889c07ac8dfc07b3
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/b1b58f08700f9c5bba127a3fdbf89fb3c8f3bee2
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/2e8f02bf2642ac2cc2c0e46dfcb370b4ebc3bb2e
+
+甘肃 IPTV 直播源： https://github.com/favixtonal/ydomin/commit/41768380f9aa6ee3e4d8e4ee65f698d36d26a76c
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/d50fd1262be683fa67c6dc097713025a7167b83f
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/4ff5f0a2859b54703eec6cb726fe2b66f752b9fd
+
+山西联通 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/eb1311c3ada1503b3843e97b92efc23cd23c8cf8
+
+山西 IPTV 直播源： https://github.com/favixtonal/ydomin/commit/8c93ae906bd9408c860d9f2c7edfc01fb6b14e80
+
+天津电信组播直播源下载地址： https://github.com/njdimagain/zhyavm/commit/5e1f0d1477487f7b7acfd9360cfd27d506065e02
+
+天津联通组播直播源下载地址： https://github.com/favixtonal/ydomin/commit/2f94ce2437cca73a081049629155a1365f6d234d
+
+天津 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/c3312388dbf279cd171a0914fe0b2d5a181b0cc3
+
+上海移动直播源下载地址： https://github.com/favixtonal/ydomin/commit/4f4a2b0c0185bd5c203b09b83cfd04b7c701bb91
+
+上海联通组播直播源下载地址： https://github.com/njdimagain/zhyavm/commit/232bcf80228ade101c7b92cb69035001c4feec77
+
+上海联通直播源下载地址： https://github.com/favixtonal/ydomin/commit/2c6382298f93f39afa185c774abca87379c554c1
+
+上海电信组播直播源下载地址： https://github.com/njdimagain/zhyavm/commit/692561f56c8c62c3b22fceb6fe6c8d0e0d7adb2e
+
+上海电信直播源下载地址： https://github.com/favixtonal/ydomin/commit/8e65a0862126d87275521762cd706f1c142f6bd4
+
+上海 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/491e14adfc07a8b8a8a76d4c62673621d80ea6ee
+
+北京移动 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/fb48589f80989cc7926db10a482bfa89a74e3f3e
+
+北京移动组播直播源下载地址： https://github.com/njdimagain/zhyavm/commit/3cd5574a24f5402cbbf3230d93e862582c512208
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/cc25580c21656919468cc6520766c7bc74b62449
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/839e1bb8587885bddabb10a1a99bec61b6fdebab
+
+北京联通 IPTV 直播源下载地址： https://github.com/favixtonal/ydomin/commit/5ebfa55f17d499862f5563b4f8d72d63f6424f74
+
+北京 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/96b9f7992c4b4dfb4c24d1050e77a2147e4349af
+
+部分地区的移动可全网通用： https://github.com/favixtonal/ydomin/commit/f4bca256ce9dbabc1501ed2baba241c788205340
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/njdimagain/zhyavm/commit/48233dc3a9682cc4dfc712d4a1f4dd20478e4449
+
+广播电台下载地址： https://github.com/favixtonal/ydomin/commit/7dc25c24310275c39f96b20154ffea9a339b3ec5
+
+国内景区直播源下载地址： https://github.com/njdimagain/zhyavm/commit/6d4123bc9a92b288a60fed56232c18b6a5c70511
+
+轮播华数黑莓下载地址： https://github.com/favixtonal/ydomin/commit/7677480cf2172e11cc440f0a2680d9269bbe9f6b
+
+台湾香港澳门电视台直播源下载地址： https://github.com/njdimagain/zhyavm/commit/3975d59431dfee92d0810ecd1f0d8c885c49a63b
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/favixtonal/ydomin/commit/acf7051df752b8b23657c16b67f39123268333fd
+
+国外电视台直播源下载地址： https://github.com/njdimagain/zhyavm/commit/7bd8f840cc8eb0f60f9d17f56e0b010d7a1eb19d
+
+卫视地方台安徽农大下载地址： https://github.com/favixtonal/ydomin/commit/99e2b276cc2e8986e9b2cf5036ca75ec59c8f064
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/njdimagain/zhyavm/commit/59d15c186b3e600f1b321efce6af151d25e8c49e
+
+卫视上海源下载地址： https://github.com/favixtonal/ydomin/commit/ded1ae8269b3ec43565c56c3789d2d4c204b544f
+
+卫视重庆广电 下载地址： https://github.com/njdimagain/zhyavm/commit/2d0ae95dcbbd1e4c60eb771930f1f3fe71f3f5c5
+
+卫视百视 TV 下载地址： https://github.com/favixtonal/ydomin/commit/7006148abd4a73c722c071cd3e4a1ecff967d089
+
+移动 IPv6 直播源下载地址： https://github.com/njdimagain/zhyavm/commit/f365921c5760f16ad040febd9462fc1c5bd84a6b
+
+国内电视台 IPv6 直播源下载地址： https://github.com/favixtonal/ydomin/commit/9e5c8c477df30b4362efebc5a592028a504d7c57
+
+各大卫视、上千个地方台： https://github.com/njdimagain/zhyavm/commit/4da5cc5ee0d7b933e5a94007d25ee94c4b9650ef
+
+国内电视台直播源下载地址： https://github.com/favixtonal/ydomin/commit/29ba5f776e2ea3c45485dfa970db66652dc9a9c3
+
+全国可用直播源： https://github.com/njdimagain/zhyavm/commit/784915c111590602796fe6f5ff1d1d7681f34398
+
+包括完整内容所有已知频道： https://github.com/favixtonal/ydomin/commit/8ec9f965596685c7a119e503e304c856c46f54f9
+
+除成人内容以外的已知频道： https://github.com/njdimagain/zhyavm/commit/c46cbbda1a03d7d0b15c9a37c0964d8d2fa2a3f1
+
+收集来自世界各地公开可用的 IPTV： https://github.com/favixtonal/ydomin/commit/0d22bbe773d7bbf10e80d60ab8036b2298bf0b50
+
+稳定地址： https://github.com/njdimagain/zhyavm/commit/4bda86c0b046cab933bad00b3fcc6b9bcfffb5d6
+
+2026-06-30 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/favixtonal/ydomin/commit/b2555fd5ca2562ca072b4ac3e3beba5adb1774d9
+
+2026-06-30 更新 IPTV 工具： https://github.com/njdimagain/zhyavm/commit/c6a294e7f2c87cb3bbcab52faa225262307c32b4
+
+2026-06-30 更新世界各地 IPTV 频道： https://github.com/favixtonal/ydomin/commit/8ce7221df1272768b4d5641d1e93efc42744d75c
+
+2026-06-30 更新全国可用直播源： https://github.com/njdimagain/zhyavm/commit/1ab62c0ab17c0e4c025aecd374bf53d69582ff3e
+
+新增各地运营商的 IPTV 地址： https://github.com/favixtonal/ydomin/commit/de5bfc9bd3c696c9d0554258947991d5e0539456
+
+插件推荐： https://github.com/njdimagain/zhyavm/commit/64e20aa2be7c7db9e8f7d2cdd6f0d5a80c27fb38
+
+视频教程增加： https://github.com/favixtonal/ydomin/commit/1a9586d3921810fc70eb7bfa425ab56d922a1367
+
+咪咕源失效： https://github.com/njdimagain/zhyavm/commit/fa7682acb11f47744556eecb5b42fad1fe26e0c5
+
+2026-06-30 更新各地运营商 IPTV 直播源： https://github.com/favixtonal/ydomin/commit/9a7bd7e05760abb1cc54cb8a77000df029f8a81d
+
+2026-06-30 更新台湾香港海外直播源： https://github.com/njdimagain/zhyavm/commit/8ff09a6e297d9b5dac1f6ea4e788922e72a8a4d6
+
+新增辽宁广电直播源： https://github.com/favixtonal/ydomin/commit/2e4b6a4c7ec459800c336760e083eae63d17dee5
+
+新增江西广电直播源： https://github.com/njdimagain/zhyavm/commit/a64355846a218f3fbd4b3466dde066d580302f29
+
+新增湖北广电直播源： https://github.com/favixtonal/ydomin/commit/75c6ee49422620fd41839bd93da50ad223d6ac1e
+
+新增中国广电 cctv + 卫视直播源： https://github.com/njdimagain/zhyavm/commit/47022160bd2b0801fe2d5890e4f645abba264976
+
+新增辽宁电信 IPTV 直播源： https://github.com/favixtonal/ydomin/commit/00ee678cca243c7138527c7b1b5aacaddf71393b
+
+2026-06-30 更新台湾香港海外直播源： https://github.com/njdimagain/zhyavm/commit/afd7683650e1af662e561f6a42ab3596c04efa44
+
+新增辽宁移动直播源： https://github.com/favixtonal/ydomin/commit/e167926e2fba11e23da87e11519e71cf11f10da0
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/22f1b27326921b75e279adc6c9b3968b0de9ecf4
+
+新增广东联通 IPTV 直播源： https://github.com/favixtonal/ydomin/commit/4a481c7b3a913029f09b88fb6597033c44a1e5bb
+
+新增四川广电 IPTV 直播源： https://github.com/njdimagain/zhyavm/commit/eb499d0e8d08febd1d8e22e47f04f4a417c85431
+
+新增云南电信 IPTV 直播源： https://github.com/favixtonal/ydomin/commit/ca050478aa4b9d9f9ba2ccc262a4c4a9a1827fe0
+
+2026-06-30 更新国内电视台直播源： https://github.com/njdimagain/zhyavm/commit/ba5cc3a8d50521f84eb310529c8e9b43e0bc47f3
+
+新增福建电信 IPTV 直播
