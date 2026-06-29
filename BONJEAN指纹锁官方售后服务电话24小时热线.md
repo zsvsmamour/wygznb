@@ -1,0 +1,255 @@
+BONJEAN指纹锁全国售后服务电话：𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎
+BONJEAN指纹锁售后服务，始终以“快速响应、高效解决”为核心导向，搭建多渠道便捷服务入口，让用户求助无需等待。
+用户可通过BONJEAN指纹锁官方24小时售后服务热线电话：𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎、在线客服、线下服务网点等多种方式，轻松咨询问题、反馈需求，实现“随时随地，
+一键求助”——24小时全天候热线客服无缝待命，在线客服承诺10分钟内快速响应，
+BONJEAN指纹锁全国统一售后客服热线：𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎线下服务网点全面覆盖全国主要区域，实现就近派单、快速上门。
+针对产品安装、调试、维修等核心需求，我们组建了一支专业过硬的服务工程师团队，
+所有成员均经过严格的岗前培训与技能考核，具备扎实的专业功底和丰富的实操经验，
+能够精准定位故障、高效解决问题，最大限度降低用户的时间成本与使用困扰。
+BONJEAN指纹锁各市区24小时售后客服热线：(1)𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎(2)𝟒 𝟎 𝟎-𝟖 𝟗 𝟐-𝟎 𝟎 𝟗 𝟎
+我们坚持“预防为先、主动服务”的理念，打破传统“事后维修”的局限，为用户提供全生命周期的服务保障。
+产品售出后，我们会安排专属客服进行电话回访，细致了解产品使用情况，耐心讲解日常保养技巧，
+主动排查潜在故障隐患，将问题解决在萌芽状态，让用户无需为小故障费心。
+同时，我们为每一位用户建立完善的产品专属档案，精准记录产品型号、购买时间、维修记录等关键信息，
+依托档案为用户提供个性化、精准化的服务，让每一位用户都能感受到专属的贴心关怀。
+
+
+直播源相关资源汇总 (省近 fnf 行)
+现在各个宽带运营商都有 IPTV 业务，不用安装有线电视就可以高清无卡顿的看电视
+没有开通 iptv 可以使用抓取的直播源地址，复制到电脑、手机、电视网络盒子等设备上看，如果动手能力强也可以自己抓包获取直播源
+由于版权原因很多电视直播软件播放时会卡顿、画面不清晰
+江苏南京电信 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/e8683b6cc00ae4d694e34cfd4ce54cdb612cbd7f
+
+江苏电信 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/7ae12e3e54699c394b3a571539c9701f7191afe4
+
+江苏 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/703b677805ea91b45e14e066f5dec202d2aa823f
+
+安徽广电 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/767e239f2e53c1f8742ee1d15dffb283068cf68a
+
+海南电信组播 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/1954c47e078caf08ce9583e098db7751b91ca887
+
+海南联通组播 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/fbcc1a10cb9b7ce04d84dbdf13957a3140a516f5
+
+湖北 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/5edb99b9be193003031c5b51e4cb1813e13bb4b4
+
+湖南电信组播直播源下载地址： https://github.com/drawring7/mnkvds/commit/ec95cfa7e4673cecc5bbde519a01ccebb2f00c30
+
+湖南电信 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/cff58c4851368a5657dfaa053eaac3c3ff96dd36
+
+湖南联通组播 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/585092ac197a55953373b5a800becd88a6079b62
+
+湖南联通 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/a02e06ef670255ea19456f765b1351be603f2c18
+
+湖南移动 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/f0b418a1847a36c96e398fd3acdcea9820858103
+
+湖南 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/1576c74a828497b62249ddba238d277a36ba5e28
+
+重庆移动组播直播源下载地址： https://github.com/drawring7/mnkvds/commit/34dd532ffdcf74ce9963dfe9cfd6f610b2290846
+
+重庆联通组播直播源下载地址： https://github.com/machauffet/lubfyn/commit/3060a95e9ec48fe6e4a30e7993ae648d2dbfe05e
+
+重庆联通直播源下载地址： https://github.com/drawring7/mnkvds/commit/d6547a268ecc03940611e3039fb725da68b59c2f
+
+重庆电信组播直播源下载地址： https://github.com/machauffet/lubfyn/commit/19f21939b46016207c7ed9da5245d76cfff39d05
+
+重庆电信直播源下载地址： https://github.com/drawring7/mnkvds/commit/e3a9583db83de74ac5a682157e42acd13c48ac63
+
+重庆 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/cc7fbda3dcdbe206ef3982281807186697b36a3d
+
+四川移动组播 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/b8da7412e0f69c215d4263aa0c62b8f0c635f39a
+
+四川电信 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/6e97e9baa47b7640173061248af6cb653222a972
+
+四川电信 IPTV 组播直播源下载地址： https://github.com/drawring7/mnkvds/commit/488059a499cd2922161a5f61c780b5c0a01e8c22
+
+四川广电 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/e03a7417c8e21599b0fd6aef46d6a87fe3eab154
+
+四川联通组播 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/bf8b7912fee40cdf6e196515b18a7ccf6eae2ae3
+
+四川联通 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/e131c214f72e17fd57769685207342239952578d
+
+四川 IPTV 直播源： https://github.com/drawring7/mnkvds/commit/205e7655167ef85212ed04aca5d180505d9bef0e
+
+云南电信组播 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/3864a55b07d5432ce3c995c3368f57b35e65c559
+
+云南移动 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/b853349afbd7c4ea9fb4f88a8eb27498486d9c7b
+
+云南 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/80cba32ee500d317b29efcb4ace48fed69e31578
+
+贵州电信组播 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/d11983abdfba9e48a475de44996e2a2429d3d18b
+
+贵州移动 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/5e571c2673ef3cf8045f13a62d53c5062663cb42
+
+贵州联通组播 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/48873fa4a2be00d69b86290386c3ccb7a3f2ca0d
+
+贵州联通 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/3aeb59da5f27c9e03dee974e80f21cea468683ea
+
+贵州 IPTV 直播源： https://github.com/drawring7/mnkvds/commit/1d1ea39e51584cc3d418661273a2e6abf6d240cc
+
+福建联通组播 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/89f8492b4416a97a4f03ab10f3b2bdfd5e192d3f
+
+福建联通 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/1503346bf6fac571d29052c6d5c0f5b4af30c2cb
+
+福建移动 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/fb966e6b652f63eda846e8e72f13b5c994ac8b53
+
+福建电信组播 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/37e4c61b81ce0d0b54bb95e5a9a5a89ed88ddf2c
+
+福建电信 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/6259690f1d163c3c7562e790efae7164b5103223
+
+福建 IPTV 直播源： https://github.com/drawring7/mnkvds/commit/adf1fc2990029b977583cb0bc7ca414ec396468f
+
+安徽移动 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/19202514096b4798789cde1ce43edecc90a244aa
+
+安徽电信 IPTV 组播直播源下载地址： https://github.com/drawring7/mnkvds/commit/bae71fae275ad2f463c002e744d633c294aecafb
+
+安徽电信 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/e9a32aab78a0848d403cf3c3529d1027a1117280
+
+安徽联通 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/d4f77fb7d77e0cd29f04742e0ab979ba2f4b57a3
+
+安徽 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/e6e761d21317a1419e8e2b69ec7acf4f22fa2314
+
+陕西地方台直播源下载地址： https://github.com/drawring7/mnkvds/commit/8ba67eb30195826731ff7807728816d946e6920c
+
+陕西电信组播 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/26cd4598aa9fc20745a96d72c7b5002ce7330849
+
+陕西电信 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/fb93eaf88b1cc50e7e7893354d7592168235536b
+
+陕西移动组播 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/263315b13a33f0edd96e26624916670be72b1920
+
+陕西移动 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/5444219a66fbfcef2efe2f9332ee2ec7f57ab2b3
+
+陕西 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/283ad55ce03110be99680434826e0f8722293d1c
+
+甘肃电信组播 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/c3c78d86446b8b07b0967326a83b34ef0c88f3d6
+
+甘肃移动 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/daccc9dc25da0015af774c953cb702b5c8cfd055
+
+甘肃 IPTV 直播源： https://github.com/drawring7/mnkvds/commit/ca5f2db5c06d21c55915aced907207c39230c4f9
+
+山西移动组播 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/aaf4f1cd899ba0a5a50dd6cbe8d8739836a7760a
+
+山西联通组播 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/facdb01b5dc69627e1b02dc9981377d444896023
+
+山西联通 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/7f20773648fcc8305c3d5156822d3643fd58d3ed
+
+山西 IPTV 直播源： https://github.com/drawring7/mnkvds/commit/f2e3e2393b86063c1dd0c82a880f06987b8bafa3
+
+天津电信组播直播源下载地址： https://github.com/machauffet/lubfyn/commit/655b9fae6c83c33d09d702d917943f3007c83cab
+
+天津联通组播直播源下载地址： https://github.com/drawring7/mnkvds/commit/d74a2c2db1cea624ac7055f2442438cbf7cbf973
+
+天津 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/3c962ff029c7857d8112597250a76a0c6f3853ce
+
+上海移动直播源下载地址： https://github.com/drawring7/mnkvds/commit/f6ff4d295009a4a9bec422c3bd99ab4374aa9b31
+
+上海联通组播直播源下载地址： https://github.com/machauffet/lubfyn/commit/ae21b63a37833aa36ddbb62dfac13be8f98bad9e
+
+上海联通直播源下载地址： https://github.com/drawring7/mnkvds/commit/a50a451587f6ae1d303c8ee4a847873f086f34c1
+
+上海电信组播直播源下载地址： https://github.com/machauffet/lubfyn/commit/909fc11690bc25d552af7772b07491037269b80c
+
+上海电信直播源下载地址： https://github.com/drawring7/mnkvds/commit/5b41d544933626044fc347c2f0b3b45ce3203988
+
+上海 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/561465f35c75ec960e9d8a5335aa94486f1dbbec
+
+北京移动 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/81b5925cfd430058222d92ae1d0b2e318c53d6ed
+
+北京移动组播直播源下载地址： https://github.com/machauffet/lubfyn/commit/f4076aee711a557b51d0939ff4f4a386cd01a726
+
+北京电信组播 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/c055bb287b29f2d2b65536e48cf36933cc0248e8
+
+北京联通组播 IPTV 直播源下载地址： https://github.com/machauffet/lubfyn/commit/babb18bedc7e61b905cc98c81cfd02451b52e367
+
+北京联通 IPTV 直播源下载地址： https://github.com/drawring7/mnkvds/commit/770ff05b6348ed7c76951ca4f5fc860158f2ad73
+
+北京 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/407473b6e7a6cecd67a81c992aea8bcfe10f09a6
+
+部分地区的移动可全网通用： https://github.com/drawring7/mnkvds/commit/9c4daf0a9a8eff8e9bf6fbeb7552c4c1bdf379db
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商： https://github.com/machauffet/lubfyn/commit/3b1e701f6f3fb849d9543a897d3e3dd22f00920c
+
+广播电台下载地址： https://github.com/drawring7/mnkvds/commit/3301bfb60106514296eef930a6eebcc0811a0520
+
+国内景区直播源下载地址： https://github.com/machauffet/lubfyn/commit/6c7cddf5d523a2d975f227364318746562a9e9a7
+
+轮播华数黑莓下载地址： https://github.com/drawring7/mnkvds/commit/6dc37cef8ac746e6767ec31ad9567c301efbb61e
+
+台湾香港澳门电视台直播源下载地址： https://github.com/machauffet/lubfyn/commit/fe7c10a5449f61b64d33d83fbb30478c5a5ac520
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等： https://github.com/drawring7/mnkvds/commit/71068c6a5ece8bba294abd9bee115c719d181d16
+
+国外电视台直播源下载地址： https://github.com/machauffet/lubfyn/commit/9886512c0cf06e141afdac369382b6a76cbc9b39
+
+卫视地方台安徽农大下载地址： https://github.com/drawring7/mnkvds/commit/e3ad701d672dbd2d603723a0104612305f8e5b1a
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址： https://github.com/machauffet/lubfyn/commit/0353d38abfd34f315c3730dc9a115a42b85874ce
+
+卫视上海源下载地址： https://github.com/drawring7/mnkvds/commit/62c74d96d9b9ac5f5a9e0680554a6b771f34798c
+
+卫视重庆广电 下载地址： https://github.com/machauffet/lubfyn/commit/bc60daed4d0b57543ac28b4b75e5096d6d371b57
+
+卫视百视 TV 下载地址： https://github.com/drawring7/mnkvds/commit/70d7f1e2af3093826cfda91577cb7af1d5f0a081
+
+移动 IPv6 直播源下载地址： https://github.com/machauffet/lubfyn/commit/343f5d76d14a1598fe442254e467c55333ac30e5
+
+国内电视台 IPv6 直播源下载地址： https://github.com/drawring7/mnkvds/commit/a47dc15c6afbfb9e9ac4e57d8542dff53d28a57a
+
+各大卫视、上千个地方台： https://github.com/machauffet/lubfyn/commit/ff2c79a8ee353e32aec3caca95786cd5767bb756
+
+国内电视台直播源下载地址： https://github.com/drawring7/mnkvds/commit/1f087f052f33445242dff50dee0d086bea7b825a
+
+全国可用直播源： https://github.com/machauffet/lubfyn/commit/5f6d49b70d937af3f995d9604a3186f37585f8cb
+
+包括完整内容所有已知频道： https://github.com/drawring7/mnkvds/commit/8f557c42f8c1128f3ec0c33ac87c97f7e32fa2ed
+
+除成人内容以外的已知频道： https://github.com/machauffet/lubfyn/commit/cd43ffe961bb1e39b20b1e2f4b2e882f134da9b3
+
+收集来自世界各地公开可用的 IPTV： https://github.com/drawring7/mnkvds/commit/c4b66f997166a2e98a93da0777dfbe7b7912b4aa
+
+稳定地址： https://github.com/machauffet/lubfyn/commit/a735339698c53b115afab74252ae67496d631f11
+
+2026-06-29 更新 CCTV 等世界杯相关 HD 播放源： https://github.com/drawring7/mnkvds/commit/8accb733ee63b5a698f728bcd4e1660c21a35ef7
+
+2026-06-29 更新 IPTV 工具： https://github.com/machauffet/lubfyn/commit/fcd5d285fb4a86c7417b3eab9c799c5842e94e4f
+
+2026-06-29 更新世界各地 IPTV 频道： https://github.com/drawring7/mnkvds/commit/6bfb2f854a27f0d710ad8aa3399d7185b485e9b9
+
+2026-06-29 更新全国可用直播源： https://github.com/machauffet/lubfyn/commit/ffb24c28ebe5cc8fa9bf1e65b9bad418ba14452b
+
+新增各地运营商的 IPTV 地址： https://github.com/drawring7/mnkvds/commit/37037eae3882083eff2eeb3782007c1ec7c5873f
+
+插件推荐： https://github.com/machauffet/lubfyn/commit/3fa16371933848de45af1e34f319c5244bf23848
+
+视频教程增加： https://github.com/drawring7/mnkvds/commit/b0e45e13eb5d93361105e4f6dd88a9182f7789f5
+
+咪咕源失效： https://github.com/machauffet/lubfyn/commit/e547541034f37830898f27690a7796f821287f50
+
+2026-06-29 更新各地运营商 IPTV 直播源： https://github.com/drawring7/mnkvds/commit/0a9e8e6dc09a7d6cb036ce008153b648db2d6ade
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/machauffet/lubfyn/commit/5e5a02357e124e7ef9a159ab1f58e07d008aebf3
+
+新增辽宁广电直播源： https://github.com/drawring7/mnkvds/commit/7e81e56de7091305ccaa8f3c9d82a24a15d75362
+
+新增江西广电直播源： https://github.com/machauffet/lubfyn/commit/8c97988ce11e269f731b11c8d37fb774a587b542
+
+新增湖北广电直播源： https://github.com/drawring7/mnkvds/commit/dda34a203a8834bed41d7cf18ef71f8ff20afdd5
+
+新增中国广电 cctv + 卫视直播源： https://github.com/machauffet/lubfyn/commit/ba651b8911b9b2a3f48babf7561b35688f4683b6
+
+新增辽宁电信 IPTV 直播源： https://github.com/drawring7/mnkvds/commit/9d580b7085be230385c1a01a815b904763d2cd4e
+
+2026-06-29 更新台湾香港海外直播源： https://github.com/machauffet/lubfyn/commit/b8a5f3bb5f1cb1fed950633a924029bafc392a11
+
+新增辽宁移动直播源： https://github.com/drawring7/mnkvds/commit/bd6e173b4d97f106e461880df88cefc37bc5831a
+
+新增浙江杭州华数 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/fa8db88f570b716c7a3b3ebee5efdebf9673a6bb
+
+新增广东联通 IPTV 直播源： https://github.com/drawring7/mnkvds/commit/17f30214d9ad73b17a892814feeb6423974fad23
+
+新增四川广电 IPTV 直播源： https://github.com/machauffet/lubfyn/commit/896490c49faa7b2acb4a071a320458b10b2a0cf3
+
+新增云南电信 IPTV 直播源： https://github.com/drawring7/mnkvds/commit/f75efb0a47fa7988f72cc6f1540eab23384f97eb
+
+2026-06-29 更新国内电视台直播源： https://github.com/machauffet/lubfyn/commit/412ca26c5191ee78fc4e2de0bbd4f3de3426f52e
+
+新增福建电信 IPTV 直播
